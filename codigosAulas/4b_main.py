@@ -10,7 +10,7 @@
 import streamlit as st
 from openai import OpenAI
 
-modelo = OpenAI(api_key="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")
+#modelo = OpenAI(api_key="COLQUE_SUA_API_KEY_AQUI")
 
 st.write("### ChatBot com IA") # markdown
 
@@ -41,7 +41,7 @@ if mensagem_usuario:
         messages=st.session_state["lista_mensagens"],
         model="gpt-4o"
     )
-    
+
     resposta_ia = resposta_modelo.choices[0].message.content
 
     # exibir a resposta da IA na tela

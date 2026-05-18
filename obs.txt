@@ -1,0 +1,2 @@
+pip install pandas openpyxl numpy nbformat plotly ipykernel
+scikit-learn

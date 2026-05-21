@@ -1,0 +1,3 @@
+https://dadosabertos.tse.jus.br/dataset/resultados-2022
+Votação nominal por município e zona: votacao_candidato_munzona_2022.zip
+Presidente - Votação por seção eleitoral - 2022: votacao_secao_2022_BR.zip

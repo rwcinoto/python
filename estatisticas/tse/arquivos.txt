@@ -1,3 +1,18 @@
-https://dadosabertos.tse.jus.br/dataset/resultados-2022
-Votação nominal por município e zona: votacao_candidato_munzona_2022.zip
-Presidente - Votação por seção eleitoral - 2022: votacao_secao_2022_BR.zip
+Fonte: https://dadosabertos.tse.jus.br/ (buscar dataset "resultados" de cada ano)
+Presidente - Votação por seção eleitoral - ANO: votacao_secao_{ANO}_BR.zip
+
+1998:
+Votação nominal por município e zona: votacao_candidato_munzona_1998.zip
+
+Arquivo usado no notebook (presidente, votação por seção, Brasil):
+  votacao_secao_{ANO}_BR.csv   ← baixar do zip "Votação por seção eleitoral"
+
+Saídas geradas pelo notebook:
+  votos_{ANO}.csv
+  votos_mun_{ANO}.csv
+  acertos_mun_{ANO}.csv
+
+Anos a processar:
+ano:   2022, 2018, 2014, 2010, 2006, 2002, 1998, 1994
+só 1:  3500,  400,  203,  173,  123,  105,   82,   73
+com 2: 3201,  356,  188,  153,  102,   57,   52,   49

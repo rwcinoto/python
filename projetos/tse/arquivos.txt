@@ -1,4 +1,4 @@
-Fonte: https://dadosabertos.tse.jus.br/ (buscar dataset "resultados" de cada ano)
+Fonte: https://dadosabertos.tse.jus.br (buscar dataset "resultados" de cada ano)
 Presidente - Votação por seção eleitoral - ANO: votacao_secao_{ANO}_BR.zip
 
 1998:

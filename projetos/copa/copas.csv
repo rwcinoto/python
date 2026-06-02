@@ -1,0 +1,965 @@
+ano;fase;time_casa;time_visitante;gols_casa;gols_visitante
+1930;group stage;France;Mexico;4;1
+1930;group stage;United States;Belgium;3;0
+1930;group stage;Yugoslavia;Brazil;2;1
+1930;group stage;Romania;Peru;3;1
+1930;group stage;Argentina;France;1;0
+1930;group stage;Chile;Mexico;3;0
+1930;group stage;Yugoslavia;Bolivia;4;0
+1930;group stage;United States;Paraguay;3;0
+1930;group stage;Uruguay;Peru;1;0
+1930;group stage;Chile;France;1;0
+1930;group stage;Argentina;Mexico;6;3
+1930;group stage;Brazil;Bolivia;4;0
+1930;group stage;Paraguay;Belgium;1;0
+1930;group stage;Uruguay;Romania;4;0
+1930;group stage;Argentina;Chile;3;1
+1930;semi-finals;Argentina;United States;6;1
+1930;semi-finals;Uruguay;Yugoslavia;6;1
+1930;final;Uruguay;Argentina;4;2
+1934;round of 16;Austria;France;3;2
+1934;round of 16;Czechoslovakia;Romania;2;1
+1934;round of 16;Germany;Belgium;5;2
+1934;round of 16;Hungary;Egypt;4;2
+1934;round of 16;Italy;United States;7;1
+1934;round of 16;Spain;Brazil;3;1
+1934;round of 16;Sweden;Argentina;3;2
+1934;round of 16;Switzerland;Netherlands;3;2
+1934;quarter-finals;Austria;Hungary;2;1
+1934;quarter-finals;Czechoslovakia;Switzerland;3;2
+1934;quarter-finals;Germany;Sweden;2;1
+1934;quarter-finals;Italy;Spain;1;1
+1934;quarter-finals;Italy;Spain;1;0
+1934;semi-finals;Czechoslovakia;Germany;3;1
+1934;semi-finals;Italy;Austria;1;0
+1934;third-place match;Germany;Austria;3;2
+1934;final;Italy;Czechoslovakia;2;1
+1938;round of 16;Switzerland;Germany;1;1
+1938;round of 16;Cuba;Romania;3;3
+1938;round of 16;France;Belgium;3;1
+1938;round of 16;Hungary;Dutch East Indies;6;0
+1938;round of 16;Italy;Norway;2;1
+1938;round of 16;Brazil;Poland;6;5
+1938;round of 16;Czechoslovakia;Netherlands;3;0
+1938;round of 16;Cuba;Romania;2;1
+1938;round of 16;Switzerland;Germany;4;2
+1938;quarter-finals;Brazil;Czechoslovakia;1;1
+1938;quarter-finals;Hungary;Switzerland;2;0
+1938;quarter-finals;Italy;France;3;1
+1938;quarter-finals;Sweden;Cuba;8;0
+1938;quarter-finals;Brazil;Czechoslovakia;2;1
+1938;semi-finals;Hungary;Sweden;5;1
+1938;semi-finals;Italy;Brazil;2;1
+1938;third-place match;Brazil;Sweden;4;2
+1938;final;Italy;Hungary;4;2
+1950;group stage;Brazil;Mexico;4;0
+1950;group stage;Yugoslavia;Switzerland;3;0
+1950;group stage;England;Chile;2;0
+1950;group stage;Spain;United States;3;1
+1950;group stage;Sweden;Italy;3;2
+1950;group stage;Brazil;Switzerland;2;2
+1950;group stage;Yugoslavia;Mexico;4;1
+1950;group stage;Spain;Chile;2;0
+1950;group stage;United States;England;1;0
+1950;group stage;Sweden;Paraguay;2;2
+1950;group stage;Brazil;Yugoslavia;2;0
+1950;group stage;Chile;United States;5;2
+1950;group stage;Spain;England;1;0
+1950;group stage;Italy;Paraguay;2;0
+1950;group stage;Uruguay;Bolivia;8;0
+1950;group stage;Switzerland;Mexico;2;1
+1950;final round;Brazil;Sweden;7;1
+1950;final round;Uruguay;Spain;2;2
+1950;final round;Brazil;Spain;6;1
+1950;final round;Uruguay;Sweden;3;2
+1950;final round;Sweden;Spain;3;1
+1950;final round;Uruguay;Brazil;2;1
+1954;group stage;Brazil;Mexico;5;0
+1954;group stage;Yugoslavia;France;1;0
+1954;group stage;Austria;Scotland;1;0
+1954;group stage;Uruguay;Czechoslovakia;2;0
+1954;group stage;Switzerland;Italy;2;1
+1954;group stage;Hungary;South Korea;9;0
+1954;group stage;West Germany;Turkey;4;1
+1954;group stage;England;Belgium;4;4
+1954;group stage;Uruguay;Scotland;7;0
+1954;group stage;Brazil;Yugoslavia;1;1
+1954;group stage;Austria;Czechoslovakia;5;0
+1954;group stage;France;Mexico;3;2
+1954;group stage;Hungary;West Germany;8;3
+1954;group stage;Turkey;South Korea;7;0
+1954;group stage;Italy;Belgium;4;1
+1954;group stage;England;Switzerland;2;0
+1954;group stage;West Germany;Turkey;7;2
+1954;group stage;Switzerland;Italy;4;1
+1954;quarter-finals;Austria;Switzerland;7;5
+1954;quarter-finals;Uruguay;England;4;2
+1954;quarter-finals;Hungary;Brazil;4;2
+1954;quarter-finals;West Germany;Yugoslavia;2;0
+1954;semi-finals;Hungary;Uruguay;4;2
+1954;semi-finals;West Germany;Austria;6;1
+1954;third-place match;Austria;Uruguay;3;1
+1954;final;West Germany;Hungary;3;2
+1958;group stage;Sweden;Mexico;3;0
+1958;group stage;Argentina;West Germany;1;3
+1958;group stage;Northern Ireland;Czechoslovakia;1;0
+1958;group stage;France;Paraguay;7;3
+1958;group stage;Yugoslavia;Scotland;1;1
+1958;group stage;Hungary;Wales;1;1
+1958;group stage;Brazil;Austria;3;0
+1958;group stage;Soviet Union;England;2;2
+1958;group stage;Argentina;Northern Ireland;3;1
+1958;group stage;West Germany;Czechoslovakia;2;2
+1958;group stage;Paraguay;Scotland;3;2
+1958;group stage;Yugoslavia;France;3;2
+1958;group stage;Mexico;Wales;1;1
+1958;group stage;Brazil;England;0;0
+1958;group stage;Soviet Union;Austria;2;0
+1958;group stage;Sweden;Hungary;2;1
+1958;group stage;Sweden;Wales;0;0
+1958;group stage;Czechoslovakia;Argentina;6;1
+1958;group stage;West Germany;Northern Ireland;2;2
+1958;group stage;France;Scotland;2;1
+1958;group stage;Paraguay;Yugoslavia;3;3
+1958;group stage;Hungary;Mexico;4;0
+1958;group stage;Brazil;Soviet Union;2;0
+1958;group stage;England;Austria;2;2
+1958;group stage;Northern Ireland;Czechoslovakia;2;1
+1958;group stage;Wales;Hungary;2;1
+1958;group stage;Soviet Union;England;1;0
+1958;quarter-finals;Brazil;Wales;1;0
+1958;quarter-finals;France;Northern Ireland;4;0
+1958;quarter-finals;Sweden;Soviet Union;2;0
+1958;quarter-finals;West Germany;Yugoslavia;1;0
+1958;semi-finals;Brazil;France;5;2
+1958;semi-finals;Sweden;West Germany;3;1
+1958;third-place match;France;West Germany;6;3
+1958;final;Brazil;Sweden;5;2
+1962;group stage;Uruguay;Colombia;2;1
+1962;group stage;Chile;Switzerland;3;1
+1962;group stage;Brazil;Mexico;2;0
+1962;group stage;Argentina;Bulgaria;1;0
+1962;group stage;Soviet Union;Yugoslavia;2;0
+1962;group stage;West Germany;Italy;0;0
+1962;group stage;Czechoslovakia;Spain;1;0
+1962;group stage;Hungary;England;2;1
+1962;group stage;Yugoslavia;Uruguay;3;1
+1962;group stage;Chile;Italy;2;0
+1962;group stage;Brazil;Czechoslovakia;0;0
+1962;group stage;England;Argentina;3;1
+1962;group stage;Soviet Union;Colombia;4;4
+1962;group stage;West Germany;Switzerland;2;1
+1962;group stage;Spain;Mexico;1;0
+1962;group stage;Hungary;Bulgaria;6;1
+1962;group stage;Soviet Union;Uruguay;2;1
+1962;group stage;West Germany;Chile;2;0
+1962;group stage;Brazil;Spain;2;1
+1962;group stage;Hungary;Argentina;0;0
+1962;group stage;Yugoslavia;Colombia;5;0
+1962;group stage;Italy;Switzerland;3;0
+1962;group stage;Mexico;Czechoslovakia;3;1
+1962;group stage;England;Bulgaria;0;0
+1962;quarter-finals;Brazil;England;3;1
+1962;quarter-finals;Chile;Soviet Union;2;1
+1962;quarter-finals;Czechoslovakia;Hungary;1;0
+1962;quarter-finals;Yugoslavia;West Germany;1;0
+1962;semi-finals;Brazil;Chile;4;2
+1962;semi-finals;Czechoslovakia;Yugoslavia;3;1
+1962;third-place match;Chile;Yugoslavia;1;0
+1962;final;Brazil;Czechoslovakia;3;1
+1966;group stage;England;Uruguay;0;0
+1966;group stage;West Germany;Switzerland;5;0
+1966;group stage;Brazil;Bulgaria;2;0
+1966;group stage;Soviet Union;North Korea;3;0
+1966;group stage;France;Mexico;1;1
+1966;group stage;Argentina;Spain;2;1
+1966;group stage;Portugal;Hungary;3;1
+1966;group stage;Italy;Chile;2;0
+1966;group stage;Uruguay;France;2;1
+1966;group stage;Spain;Switzerland;2;1
+1966;group stage;Hungary;Brazil;3;1
+1966;group stage;Chile;North Korea;1;1
+1966;group stage;Argentina;West Germany;0;0
+1966;group stage;Portugal;Bulgaria;3;0
+1966;group stage;Soviet Union;Italy;1;0
+1966;group stage;England;Mexico;2;0
+1966;group stage;Mexico;Uruguay;0;0
+1966;group stage;Argentina;Switzerland;2;0
+1966;group stage;Portugal;Brazil;3;1
+1966;group stage;North Korea;Italy;1;0
+1966;group stage;England;France;2;0
+1966;group stage;West Germany;Spain;2;1
+1966;group stage;Hungary;Bulgaria;3;1
+1966;group stage;Soviet Union;Chile;2;1
+1966;quarter-finals;England;Argentina;1;0
+1966;quarter-finals;Portugal;North Korea;5;3
+1966;quarter-finals;Soviet Union;Hungary;2;1
+1966;quarter-finals;West Germany;Uruguay;4;0
+1966;semi-finals;West Germany;Soviet Union;2;1
+1966;semi-finals;England;Portugal;2;1
+1966;third-place match;Portugal;Soviet Union;2;1
+1966;final;England;West Germany;4;2
+1970;group stage;Mexico;Soviet Union;0;0
+1970;group stage;Uruguay;Israel;2;0
+1970;group stage;England;Romania;1;0
+1970;group stage;Peru;Bulgaria;3;2
+1970;group stage;Belgium;El Salvador;3;0
+1970;group stage;Italy;Sweden;1;0
+1970;group stage;Brazil;Czechoslovakia;4;1
+1970;group stage;West Germany;Morocco;2;1
+1970;group stage;Soviet Union;Belgium;4;1
+1970;group stage;Uruguay;Italy;0;0
+1970;group stage;Romania;Czechoslovakia;2;1
+1970;group stage;Peru;Morocco;3;0
+1970;group stage;Mexico;El Salvador;4;0
+1970;group stage;Sweden;Israel;1;1
+1970;group stage;Brazil;England;1;0
+1970;group stage;West Germany;Bulgaria;5;2
+1970;group stage;Soviet Union;El Salvador;2;0
+1970;group stage;Sweden;Uruguay;1;0
+1970;group stage;Brazil;Romania;3;2
+1970;group stage;West Germany;Peru;3;1
+1970;group stage;Mexico;Belgium;1;0
+1970;group stage;Italy;Israel;0;0
+1970;group stage;England;Czechoslovakia;1;0
+1970;group stage;Bulgaria;Morocco;1;1
+1970;quarter-finals;Brazil;Peru;4;2
+1970;quarter-finals;Italy;Mexico;4;1
+1970;quarter-finals;Soviet Union;Uruguay;0;1
+1970;quarter-finals;West Germany;England;3;2
+1970;semi-finals;Brazil;Uruguay;3;1
+1970;semi-finals;Italy;West Germany;4;3
+1970;third-place match;West Germany;Uruguay;1;0
+1970;final;Brazil;Italy;4;1
+1974;group stage;Brazil;Yugoslavia;0;0
+1974;group stage;West Germany;Chile;1;0
+1974;group stage;East Germany;Australia;2;0
+1974;group stage;Zaire;Scotland;0;2
+1974;group stage;Sweden;Bulgaria;0;0
+1974;group stage;Uruguay;Netherlands;0;2
+1974;group stage;Italy;Haiti;3;1
+1974;group stage;Poland;Argentina;3;2
+1974;group stage;Australia;West Germany;0;3
+1974;group stage;Chile;East Germany;1;1
+1974;group stage;Scotland;Brazil;0;0
+1974;group stage;Yugoslavia;Zaire;9;0
+1974;group stage;Bulgaria;Uruguay;1;1
+1974;group stage;Netherlands;Sweden;0;0
+1974;group stage;Argentina;Italy;1;1
+1974;group stage;Haiti;Poland;0;7
+1974;group stage;Australia;Chile;0;0
+1974;group stage;Scotland;Yugoslavia;1;1
+1974;group stage;Zaire;Brazil;0;3
+1974;group stage;East Germany;West Germany;1;0
+1974;group stage;Bulgaria;Netherlands;1;4
+1974;group stage;Sweden;Uruguay;3;0
+1974;group stage;Argentina;Haiti;4;1
+1974;group stage;Poland;Italy;2;1
+1974;second group stage;Yugoslavia;West Germany;0;2
+1974;second group stage;Brazil;East Germany;1;0
+1974;second group stage;Netherlands;Argentina;4;0
+1974;second group stage;Sweden;Poland;0;1
+1974;second group stage;Argentina;Brazil;1;2
+1974;second group stage;East Germany;Netherlands;0;2
+1974;second group stage;Poland;Yugoslavia;2;1
+1974;second group stage;West Germany;Sweden;4;2
+1974;second group stage;Poland;West Germany;0;1
+1974;second group stage;Argentina;East Germany;1;1
+1974;second group stage;Netherlands;Brazil;2;0
+1974;second group stage;Sweden;Yugoslavia;2;1
+1974;third-place match;Brazil;Poland;0;1
+1974;final;Netherlands;West Germany;1;2
+1978;group stage;West Germany;Poland;0;0
+1978;group stage;Italy;France;2;1
+1978;group stage;Tunisia;Mexico;3;1
+1978;group stage;Argentina;Hungary;2;1
+1978;group stage;Austria;Spain;2;1
+1978;group stage;Brazil;Sweden;1;1
+1978;group stage;Netherlands;Iran;3;0
+1978;group stage;Peru;Scotland;3;1
+1978;group stage;Italy;Hungary;3;1
+1978;group stage;Poland;Tunisia;1;0
+1978;group stage;West Germany;Mexico;6;0
+1978;group stage;Argentina;France;2;1
+1978;group stage;Austria;Sweden;1;0
+1978;group stage;Brazil;Spain;0;0
+1978;group stage;Netherlands;Peru;0;0
+1978;group stage;Scotland;Iran;1;1
+1978;group stage;France;Hungary;3;1
+1978;group stage;Poland;Mexico;3;1
+1978;group stage;West Germany;Tunisia;0;0
+1978;group stage;Argentina;Italy;0;1
+1978;group stage;Brazil;Austria;1;0
+1978;group stage;Spain;Sweden;1;0
+1978;group stage;Peru;Iran;4;1
+1978;group stage;Scotland;Netherlands;3;2
+1978;second group stage;Austria;Netherlands;1;5
+1978;second group stage;Italy;West Germany;0;0
+1978;second group stage;Brazil;Peru;3;0
+1978;second group stage;Argentina;Poland;2;0
+1978;second group stage;Peru;Poland;0;1
+1978;second group stage;Italy;Austria;1;0
+1978;second group stage;Netherlands;West Germany;2;2
+1978;second group stage;Argentina;Brazil;0;0
+1978;second group stage;Austria;West Germany;3;2
+1978;second group stage;Italy;Netherlands;1;2
+1978;second group stage;Brazil;Poland;3;1
+1978;second group stage;Argentina;Peru;6;0
+1978;third-place match;Brazil;Italy;2;1
+1978;final;Argentina;Netherlands;3;1
+1982;group stage;Argentina;Belgium;0;1
+1982;group stage;Italy;Poland;0;0
+1982;group stage;Brazil;Soviet Union;2;1
+1982;group stage;Peru;Cameroon;0;0
+1982;group stage;Hungary;El Salvador;10;1
+1982;group stage;Scotland;New Zealand;5;2
+1982;group stage;West Germany;Algeria;1;2
+1982;group stage;England;France;3;1
+1982;group stage;Spain;Honduras;1;1
+1982;group stage;Chile;Austria;0;1
+1982;group stage;Czechoslovakia;Kuwait;1;1
+1982;group stage;Yugoslavia;Northern Ireland;0;0
+1982;group stage;Italy;Peru;1;1
+1982;group stage;Argentina;Hungary;4;1
+1982;group stage;Brazil;Scotland;4;1
+1982;group stage;Poland;Cameroon;0;0
+1982;group stage;Belgium;El Salvador;1;0
+1982;group stage;Soviet Union;New Zealand;3;0
+1982;group stage;West Germany;Chile;4;1
+1982;group stage;England;Czechoslovakia;2;0
+1982;group stage;Spain;Yugoslavia;2;1
+1982;group stage;Algeria;Austria;0;2
+1982;group stage;France;Kuwait;4;1
+1982;group stage;Honduras;Northern Ireland;1;1
+1982;group stage;Poland;Peru;5;1
+1982;group stage;Belgium;Hungary;1;1
+1982;group stage;Soviet Union;Scotland;2;2
+1982;group stage;Italy;Cameroon;1;1
+1982;group stage;Argentina;El Salvador;2;0
+1982;group stage;Brazil;New Zealand;4;0
+1982;group stage;Algeria;Chile;3;2
+1982;group stage;France;Czechoslovakia;1;1
+1982;group stage;Honduras;Yugoslavia;0;1
+1982;group stage;West Germany;Austria;1;0
+1982;group stage;England;Kuwait;1;0
+1982;group stage;Spain;Northern Ireland;0;1
+1982;second group stage;Austria;France;0;1
+1982;second group stage;Poland;Belgium;3;0
+1982;second group stage;Italy;Argentina;2;1
+1982;second group stage;West Germany;England;0;0
+1982;second group stage;Austria;Northern Ireland;2;2
+1982;second group stage;Belgium;Soviet Union;0;1
+1982;second group stage;Argentina;Brazil;1;3
+1982;second group stage;West Germany;Spain;2;1
+1982;second group stage;France;Northern Ireland;4;1
+1982;second group stage;Soviet Union;Poland;0;0
+1982;second group stage;Italy;Brazil;3;2
+1982;second group stage;Spain;England;0;0
+1982;semi-finals;Poland;Italy;0;2
+1982;semi-finals;West Germany;France;3;3
+1982;third-place match;Poland;France;3;2
+1982;final;Italy;West Germany;3;1
+1986;group stage;Bulgaria;Italy;1;1
+1986;group stage;Spain;Brazil;0;1
+1986;group stage;Canada;France;0;1
+1986;group stage;Argentina;South Korea;3;1
+1986;group stage;Soviet Union;Hungary;6;0
+1986;group stage;Morocco;Poland;0;0
+1986;group stage;Belgium;Mexico;1;2
+1986;group stage;Algeria;Northern Ireland;1;1
+1986;group stage;Portugal;England;1;0
+1986;group stage;Paraguay;Iraq;1;0
+1986;group stage;Uruguay;West Germany;1;1
+1986;group stage;Scotland;Denmark;0;1
+1986;group stage;Italy;Argentina;1;1
+1986;group stage;France;Soviet Union;1;1
+1986;group stage;South Korea;Bulgaria;1;1
+1986;group stage;Hungary;Canada;2;0
+1986;group stage;Brazil;Algeria;1;0
+1986;group stage;England;Morocco;0;0
+1986;group stage;Mexico;Paraguay;1;1
+1986;group stage;Northern Ireland;Spain;1;2
+1986;group stage;Poland;Portugal;1;0
+1986;group stage;Iraq;Belgium;1;2
+1986;group stage;West Germany;Scotland;2;1
+1986;group stage;Denmark;Uruguay;6;1
+1986;group stage;Hungary;France;0;3
+1986;group stage;Soviet Union;Canada;2;0
+1986;group stage;Argentina;Bulgaria;2;0
+1986;group stage;South Korea;Italy;2;3
+1986;group stage;Iraq;Mexico;0;1
+1986;group stage;Paraguay;Belgium;2;2
+1986;group stage;England;Poland;3;0
+1986;group stage;Portugal;Morocco;1;3
+1986;group stage;Algeria;Spain;0;3
+1986;group stage;Northern Ireland;Brazil;0;3
+1986;group stage;Denmark;West Germany;2;0
+1986;group stage;Scotland;Uruguay;0;0
+1986;round of 16;Mexico;Bulgaria;2;0
+1986;round of 16;Soviet Union;Belgium;3;4
+1986;round of 16;Brazil;Poland;4;0
+1986;round of 16;Argentina;Uruguay;1;0
+1986;round of 16;Italy;France;0;2
+1986;round of 16;Morocco;West Germany;0;1
+1986;round of 16;England;Paraguay;3;0
+1986;round of 16;Denmark;Spain;1;5
+1986;quarter-finals;Brazil;France;1;1
+1986;quarter-finals;West Germany;Mexico;0;0
+1986;quarter-finals;Argentina;England;2;1
+1986;quarter-finals;Spain;Belgium;1;1
+1986;semi-finals;France;West Germany;0;2
+1986;semi-finals;Argentina;Belgium;2;0
+1986;third-place match;Belgium;France;2;4
+1986;final;Argentina;West Germany;3;2
+1990;group stage;Argentina;Cameroon;0;1
+1990;group stage;Soviet Union;Romania;0;2
+1990;group stage;United Arab Emirates;Colombia;0;2
+1990;group stage;Italy;Austria;1;0
+1990;group stage;United States;Czechoslovakia;1;5
+1990;group stage;Brazil;Sweden;2;1
+1990;group stage;West Germany;Yugoslavia;4;1
+1990;group stage;Costa Rica;Scotland;1;0
+1990;group stage;England;Republic of Ireland;1;1
+1990;group stage;Belgium;South Korea;2;0
+1990;group stage;Netherlands;Egypt;1;1
+1990;group stage;Uruguay;Spain;0;0
+1990;group stage;Argentina;Soviet Union;2;0
+1990;group stage;Cameroon;Romania;2;1
+1990;group stage;Yugoslavia;Colombia;1;0
+1990;group stage;Italy;United States;1;0
+1990;group stage;Austria;Czechoslovakia;0;1
+1990;group stage;West Germany;United Arab Emirates;5;1
+1990;group stage;Brazil;Costa Rica;1;0
+1990;group stage;Sweden;Scotland;1;2
+1990;group stage;England;Netherlands;0;0
+1990;group stage;Republic of Ireland;Egypt;0;0
+1990;group stage;Belgium;Uruguay;3;1
+1990;group stage;South Korea;Spain;1;3
+1990;group stage;Argentina;Romania;1;1
+1990;group stage;Cameroon;Soviet Union;0;4
+1990;group stage;West Germany;Colombia;1;1
+1990;group stage;Yugoslavia;United Arab Emirates;4;1
+1990;group stage;Austria;United States;2;1
+1990;group stage;Italy;Czechoslovakia;2;0
+1990;group stage;Brazil;Scotland;1;0
+1990;group stage;Sweden;Costa Rica;1;2
+1990;group stage;Belgium;Spain;1;2
+1990;group stage;South Korea;Uruguay;0;1
+1990;group stage;England;Egypt;1;0
+1990;group stage;Republic of Ireland;Netherlands;1;1
+1990;round of 16;Cameroon;Colombia;2;1
+1990;round of 16;Czechoslovakia;Costa Rica;4;1
+1990;round of 16;Brazil;Argentina;0;1
+1990;round of 16;West Germany;Netherlands;2;1
+1990;round of 16;Republic of Ireland;Romania;0;0
+1990;round of 16;Italy;Uruguay;2;0
+1990;round of 16;Spain;Yugoslavia;1;2
+1990;round of 16;England;Belgium;1;0
+1990;quarter-finals;Argentina;Yugoslavia;0;0
+1990;quarter-finals;Republic of Ireland;Italy;0;1
+1990;quarter-finals;Czechoslovakia;West Germany;0;1
+1990;quarter-finals;Cameroon;England;2;3
+1990;semi-finals;Argentina;Italy;1;1
+1990;semi-finals;West Germany;England;1;1
+1990;third-place match;Italy;England;2;1
+1990;final;West Germany;Argentina;1;0
+1994;group stage;Germany;Bolivia;1;0
+1994;group stage;Spain;South Korea;2;2
+1994;group stage;United States;Switzerland;1;1
+1994;group stage;Italy;Republic of Ireland;0;1
+1994;group stage;Colombia;Romania;1;3
+1994;group stage;Belgium;Morocco;1;0
+1994;group stage;Norway;Mexico;1;0
+1994;group stage;Cameroon;Sweden;2;2
+1994;group stage;Brazil;Russia;2;0
+1994;group stage;Netherlands;Saudi Arabia;2;1
+1994;group stage;Argentina;Greece;4;0
+1994;group stage;Germany;Spain;1;1
+1994;group stage;Nigeria;Bulgaria;3;0
+1994;group stage;Romania;Switzerland;1;4
+1994;group stage;United States;Colombia;2;1
+1994;group stage;Italy;Norway;1;0
+1994;group stage;South Korea;Bolivia;0;0
+1994;group stage;Mexico;Republic of Ireland;2;1
+1994;group stage;Brazil;Cameroon;3;0
+1994;group stage;Sweden;Russia;3;1
+1994;group stage;Belgium;Netherlands;1;0
+1994;group stage;Saudi Arabia;Morocco;2;1
+1994;group stage;Argentina;Nigeria;2;1
+1994;group stage;Bulgaria;Greece;4;0
+1994;group stage;Switzerland;Colombia;0;2
+1994;group stage;United States;Romania;0;1
+1994;group stage;Bolivia;Spain;1;3
+1994;group stage;Germany;South Korea;3;2
+1994;group stage;Italy;Mexico;1;1
+1994;group stage;Republic of Ireland;Norway;0;0
+1994;group stage;Russia;Cameroon;6;1
+1994;group stage;Brazil;Sweden;1;1
+1994;group stage;Belgium;Saudi Arabia;0;1
+1994;group stage;Morocco;Netherlands;1;2
+1994;group stage;Argentina;Bulgaria;0;2
+1994;group stage;Greece;Nigeria;0;2
+1994;round of 16;Germany;Belgium;3;2
+1994;round of 16;Spain;Switzerland;3;0
+1994;round of 16;Saudi Arabia;Sweden;1;3
+1994;round of 16;Romania;Argentina;3;2
+1994;round of 16;Netherlands;Republic of Ireland;2;0
+1994;round of 16;Brazil;United States;1;0
+1994;round of 16;Nigeria;Italy;1;2
+1994;round of 16;Mexico;Bulgaria;1;1
+1994;quarter-finals;Italy;Spain;2;1
+1994;quarter-finals;Netherlands;Brazil;2;3
+1994;quarter-finals;Bulgaria;Germany;2;1
+1994;quarter-finals;Romania;Sweden;2;2
+1994;semi-finals;Bulgaria;Italy;1;2
+1994;semi-finals;Sweden;Brazil;0;1
+1994;third-place match;Sweden;Bulgaria;4;0
+1994;final;Brazil;Italy;0;0
+1998;group stage;Brazil;Scotland;2;1
+1998;group stage;Morocco;Norway;2;2
+1998;group stage;Italy;Chile;2;2
+1998;group stage;Cameroon;Austria;1;1
+1998;group stage;Paraguay;Bulgaria;0;0
+1998;group stage;Saudi Arabia;Denmark;0;1
+1998;group stage;France;South Africa;3;0
+1998;group stage;Spain;Nigeria;2;3
+1998;group stage;South Korea;Mexico;1;3
+1998;group stage;Netherlands;Belgium;0;0
+1998;group stage;Argentina;Japan;1;0
+1998;group stage;Yugoslavia;Iran;1;0
+1998;group stage;Jamaica;Croatia;1;3
+1998;group stage;England;Tunisia;2;0
+1998;group stage;Romania;Colombia;1;0
+1998;group stage;Germany;United States;2;0
+1998;group stage;Scotland;Norway;1;1
+1998;group stage;Brazil;Morocco;3;0
+1998;group stage;Chile;Austria;1;1
+1998;group stage;Italy;Cameroon;3;0
+1998;group stage;South Africa;Denmark;1;1
+1998;group stage;France;Saudi Arabia;4;0
+1998;group stage;Nigeria;Bulgaria;1;0
+1998;group stage;Spain;Paraguay;0;0
+1998;group stage;Japan;Croatia;0;1
+1998;group stage;Belgium;Mexico;2;2
+1998;group stage;Netherlands;South Korea;5;0
+1998;group stage;Germany;Yugoslavia;2;2
+1998;group stage;Argentina;Jamaica;5;0
+1998;group stage;United States;Iran;1;2
+1998;group stage;Colombia;Tunisia;1;0
+1998;group stage;Romania;England;2;1
+1998;group stage;Chile;Cameroon;1;1
+1998;group stage;Italy;Austria;2;1
+1998;group stage;Brazil;Norway;1;2
+1998;group stage;Scotland;Morocco;0;3
+1998;group stage;France;Denmark;2;1
+1998;group stage;South Africa;Saudi Arabia;2;2
+1998;group stage;Nigeria;Paraguay;1;3
+1998;group stage;Spain;Bulgaria;6;1
+1998;group stage;Belgium;South Korea;1;1
+1998;group stage;Netherlands;Mexico;2;2
+1998;group stage;Germany;Iran;2;0
+1998;group stage;United States;Yugoslavia;0;1
+1998;group stage;Argentina;Croatia;1;0
+1998;group stage;Japan;Jamaica;1;2
+1998;group stage;Colombia;England;0;2
+1998;group stage;Romania;Tunisia;1;1
+1998;round of 16;Italy;Norway;1;0
+1998;round of 16;Brazil;Chile;4;1
+1998;round of 16;France;Paraguay;1;0
+1998;round of 16;Nigeria;Denmark;1;4
+1998;round of 16;Germany;Mexico;2;1
+1998;round of 16;Netherlands;Yugoslavia;2;1
+1998;round of 16;Romania;Croatia;0;1
+1998;round of 16;Argentina;England;2;2
+1998;quarter-finals;Italy;France;0;0
+1998;quarter-finals;Brazil;Denmark;3;2
+1998;quarter-finals;Netherlands;Argentina;2;1
+1998;quarter-finals;Germany;Croatia;0;3
+1998;semi-finals;Brazil;Netherlands;1;1
+1998;semi-finals;France;Croatia;2;1
+1998;third-place match;Netherlands;Croatia;1;2
+1998;final;Brazil;France;0;3
+2002;group stage;France;Senegal;0;1
+2002;group stage;Republic of Ireland;Cameroon;1;1
+2002;group stage;Uruguay;Denmark;1;2
+2002;group stage;Germany;Saudi Arabia;8;0
+2002;group stage;Argentina;Nigeria;1;0
+2002;group stage;Paraguay;South Africa;2;2
+2002;group stage;England;Sweden;1;1
+2002;group stage;Spain;Slovenia;3;1
+2002;group stage;Croatia;Mexico;0;1
+2002;group stage;Brazil;Turkey;2;1
+2002;group stage;Italy;Ecuador;2;0
+2002;group stage;China;Costa Rica;0;2
+2002;group stage;Japan;Belgium;2;2
+2002;group stage;South Korea;Poland;2;0
+2002;group stage;Russia;Tunisia;2;0
+2002;group stage;United States;Portugal;3;2
+2002;group stage;Germany;Republic of Ireland;1;1
+2002;group stage;Denmark;Senegal;1;1
+2002;group stage;Cameroon;Saudi Arabia;1;0
+2002;group stage;France;Uruguay;0;0
+2002;group stage;Sweden;Nigeria;2;1
+2002;group stage;Spain;Paraguay;3;1
+2002;group stage;Argentina;England;0;1
+2002;group stage;South Africa;Slovenia;1;0
+2002;group stage;Italy;Croatia;1;2
+2002;group stage;Brazil;China;4;0
+2002;group stage;Mexico;Ecuador;2;1
+2002;group stage;Costa Rica;Turkey;1;1
+2002;group stage;Japan;Russia;1;0
+2002;group stage;South Korea;United States;1;1
+2002;group stage;Tunisia;Belgium;1;1
+2002;group stage;Portugal;Poland;4;0
+2002;group stage;Denmark;France;2;0
+2002;group stage;Senegal;Uruguay;3;3
+2002;group stage;Cameroon;Germany;0;2
+2002;group stage;Saudi Arabia;Republic of Ireland;0;3
+2002;group stage;Nigeria;England;0;0
+2002;group stage;Sweden;Argentina;1;1
+2002;group stage;Slovenia;Paraguay;1;3
+2002;group stage;South Africa;Spain;2;3
+2002;group stage;Costa Rica;Brazil;2;5
+2002;group stage;Turkey;China;3;0
+2002;group stage;Ecuador;Croatia;1;0
+2002;group stage;Mexico;Italy;1;1
+2002;group stage;Belgium;Russia;3;2
+2002;group stage;Tunisia;Japan;0;2
+2002;group stage;Poland;United States;3;1
+2002;group stage;Portugal;South Korea;0;1
+2002;round of 16;Germany;Paraguay;1;0
+2002;round of 16;Denmark;England;0;3
+2002;round of 16;Sweden;Senegal;1;2
+2002;round of 16;Spain;Republic of Ireland;1;1
+2002;round of 16;Mexico;United States;0;2
+2002;round of 16;Brazil;Belgium;2;0
+2002;round of 16;Japan;Turkey;0;1
+2002;round of 16;South Korea;Italy;2;1
+2002;quarter-finals;England;Brazil;1;2
+2002;quarter-finals;Germany;United States;1;0
+2002;quarter-finals;Spain;South Korea;0;0
+2002;quarter-finals;Senegal;Turkey;0;1
+2002;semi-finals;Germany;South Korea;1;0
+2002;semi-finals;Brazil;Turkey;1;0
+2002;third-place match;South Korea;Turkey;2;3
+2002;final;Germany;Brazil;0;2
+2006;group stage;Germany;Costa Rica;4;2
+2006;group stage;Poland;Ecuador;0;2
+2006;group stage;England;Paraguay;1;0
+2006;group stage;Trinidad and Tobago;Sweden;0;0
+2006;group stage;Argentina;Ivory Coast;2;1
+2006;group stage;Serbia and Montenegro;Netherlands;0;1
+2006;group stage;Mexico;Iran;3;1
+2006;group stage;Angola;Portugal;0;1
+2006;group stage;Australia;Japan;3;1
+2006;group stage;United States;Czech Republic;0;3
+2006;group stage;Italy;Ghana;2;0
+2006;group stage;South Korea;Togo;2;1
+2006;group stage;France;Switzerland;0;0
+2006;group stage;Brazil;Croatia;1;0
+2006;group stage;Spain;Ukraine;4;0
+2006;group stage;Tunisia;Saudi Arabia;2;2
+2006;group stage;Germany;Poland;1;0
+2006;group stage;Ecuador;Costa Rica;3;0
+2006;group stage;England;Trinidad and Tobago;2;0
+2006;group stage;Sweden;Paraguay;1;0
+2006;group stage;Argentina;Serbia and Montenegro;6;0
+2006;group stage;Netherlands;Ivory Coast;2;1
+2006;group stage;Mexico;Angola;0;0
+2006;group stage;Portugal;Iran;2;0
+2006;group stage;Czech Republic;Ghana;0;2
+2006;group stage;Italy;United States;1;1
+2006;group stage;Japan;Croatia;0;0
+2006;group stage;Brazil;Australia;2;0
+2006;group stage;France;South Korea;1;1
+2006;group stage;Togo;Switzerland;0;2
+2006;group stage;Saudi Arabia;Ukraine;0;4
+2006;group stage;Spain;Tunisia;3;1
+2006;group stage;Costa Rica;Poland;1;2
+2006;group stage;Ecuador;Germany;0;3
+2006;group stage;Paraguay;Trinidad and Tobago;2;0
+2006;group stage;Sweden;England;2;2
+2006;group stage;Iran;Angola;1;1
+2006;group stage;Portugal;Mexico;2;1
+2006;group stage;Ivory Coast;Serbia and Montenegro;3;2
+2006;group stage;Netherlands;Argentina;0;0
+2006;group stage;Czech Republic;Italy;0;2
+2006;group stage;Ghana;United States;2;1
+2006;group stage;Croatia;Australia;2;2
+2006;group stage;Japan;Brazil;1;4
+2006;group stage;Saudi Arabia;Spain;0;1
+2006;group stage;Ukraine;Tunisia;1;0
+2006;group stage;Switzerland;South Korea;2;0
+2006;group stage;Togo;France;0;2
+2006;round of 16;Germany;Sweden;2;0
+2006;round of 16;Argentina;Mexico;2;1
+2006;round of 16;England;Ecuador;1;0
+2006;round of 16;Portugal;Netherlands;1;0
+2006;round of 16;Italy;Australia;1;0
+2006;round of 16;Switzerland;Ukraine;0;0
+2006;round of 16;Brazil;Ghana;3;0
+2006;round of 16;Spain;France;1;3
+2006;quarter-finals;Germany;Argentina;1;1
+2006;quarter-finals;Italy;Ukraine;3;0
+2006;quarter-finals;England;Portugal;0;0
+2006;quarter-finals;Brazil;France;0;1
+2006;semi-finals;Germany;Italy;0;2
+2006;semi-finals;Portugal;France;0;1
+2006;third-place match;Germany;Portugal;3;1
+2006;final;Italy;France;1;1
+2010;group stage;South Africa;Mexico;1;1
+2010;group stage;Uruguay;France;0;0
+2010;group stage;South Korea;Greece;2;0
+2010;group stage;Argentina;Nigeria;1;0
+2010;group stage;England;United States;1;1
+2010;group stage;Algeria;Slovenia;0;1
+2010;group stage;Serbia;Ghana;0;1
+2010;group stage;Germany;Australia;4;0
+2010;group stage;Netherlands;Denmark;2;0
+2010;group stage;Japan;Cameroon;1;0
+2010;group stage;Italy;Paraguay;1;1
+2010;group stage;New Zealand;Slovakia;1;1
+2010;group stage;Ivory Coast;Portugal;0;0
+2010;group stage;Brazil;North Korea;2;1
+2010;group stage;Honduras;Chile;0;1
+2010;group stage;Spain;Switzerland;0;1
+2010;group stage;South Africa;Uruguay;0;3
+2010;group stage;Argentina;South Korea;4;1
+2010;group stage;Greece;Nigeria;2;1
+2010;group stage;France;Mexico;0;2
+2010;group stage;Germany;Serbia;0;1
+2010;group stage;Slovenia;United States;2;2
+2010;group stage;England;Algeria;0;0
+2010;group stage;Netherlands;Japan;1;0
+2010;group stage;Ghana;Australia;1;1
+2010;group stage;Cameroon;Denmark;1;2
+2010;group stage;Slovakia;Paraguay;0;2
+2010;group stage;Italy;New Zealand;1;1
+2010;group stage;Brazil;Ivory Coast;3;1
+2010;group stage;Portugal;North Korea;7;0
+2010;group stage;Chile;Switzerland;1;0
+2010;group stage;Spain;Honduras;2;0
+2010;group stage;France;South Africa;1;2
+2010;group stage;Mexico;Uruguay;0;1
+2010;group stage;Greece;Argentina;0;2
+2010;group stage;Nigeria;South Korea;2;2
+2010;group stage;Slovenia;England;0;1
+2010;group stage;United States;Algeria;1;0
+2010;group stage;Australia;Serbia;2;1
+2010;group stage;Ghana;Germany;0;1
+2010;group stage;Paraguay;New Zealand;0;0
+2010;group stage;Slovakia;Italy;3;2
+2010;group stage;Cameroon;Netherlands;1;2
+2010;group stage;Denmark;Japan;1;3
+2010;group stage;North Korea;Ivory Coast;0;3
+2010;group stage;Portugal;Brazil;0;0
+2010;group stage;Chile;Spain;1;2
+2010;group stage;Switzerland;Honduras;0;0
+2010;round of 16;Uruguay;South Korea;2;1
+2010;round of 16;United States;Ghana;1;2
+2010;round of 16;Germany;England;4;1
+2010;round of 16;Argentina;Mexico;3;1
+2010;round of 16;Netherlands;Slovakia;2;1
+2010;round of 16;Brazil;Chile;3;0
+2010;round of 16;Paraguay;Japan;0;0
+2010;round of 16;Spain;Portugal;1;0
+2010;quarter-finals;Netherlands;Brazil;2;1
+2010;quarter-finals;Uruguay;Ghana;1;1
+2010;quarter-finals;Argentina;Germany;0;4
+2010;quarter-finals;Paraguay;Spain;0;1
+2010;semi-finals;Uruguay;Netherlands;2;3
+2010;semi-finals;Germany;Spain;0;1
+2010;third-place match;Uruguay;Germany;2;3
+2010;final;Netherlands;Spain;0;1
+2014;group stage;Brazil;Croatia;3;1
+2014;group stage;Mexico;Cameroon;1;0
+2014;group stage;Spain;Netherlands;1;5
+2014;group stage;Chile;Australia;3;1
+2014;group stage;Colombia;Greece;3;0
+2014;group stage;Uruguay;Costa Rica;1;3
+2014;group stage;England;Italy;1;2
+2014;group stage;Ivory Coast;Japan;2;1
+2014;group stage;Switzerland;Ecuador;2;1
+2014;group stage;France;Honduras;3;0
+2014;group stage;Argentina;Bosnia and Herzegovina;2;1
+2014;group stage;Germany;Portugal;4;0
+2014;group stage;Iran;Nigeria;0;0
+2014;group stage;Ghana;United States;1;2
+2014;group stage;Belgium;Algeria;2;1
+2014;group stage;Brazil;Mexico;0;0
+2014;group stage;Russia;South Korea;1;1
+2014;group stage;Australia;Netherlands;2;3
+2014;group stage;Spain;Chile;0;2
+2014;group stage;Cameroon;Croatia;0;4
+2014;group stage;Colombia;Ivory Coast;2;1
+2014;group stage;Uruguay;England;2;1
+2014;group stage;Japan;Greece;0;0
+2014;group stage;Italy;Costa Rica;0;1
+2014;group stage;Switzerland;France;2;5
+2014;group stage;Honduras;Ecuador;1;2
+2014;group stage;Argentina;Iran;1;0
+2014;group stage;Germany;Ghana;2;2
+2014;group stage;Nigeria;Bosnia and Herzegovina;1;0
+2014;group stage;Belgium;Russia;1;0
+2014;group stage;South Korea;Algeria;2;4
+2014;group stage;United States;Portugal;2;2
+2014;group stage;Australia;Spain;0;3
+2014;group stage;Netherlands;Chile;2;0
+2014;group stage;Cameroon;Brazil;1;4
+2014;group stage;Croatia;Mexico;1;3
+2014;group stage;Costa Rica;England;0;0
+2014;group stage;Italy;Uruguay;0;1
+2014;group stage;Japan;Colombia;1;4
+2014;group stage;Greece;Ivory Coast;2;1
+2014;group stage;Bosnia and Herzegovina;Iran;3;1
+2014;group stage;Nigeria;Argentina;2;3
+2014;group stage;Honduras;Switzerland;0;3
+2014;group stage;Ecuador;France;0;0
+2014;group stage;Portugal;Ghana;2;1
+2014;group stage;United States;Germany;0;1
+2014;group stage;Algeria;Russia;1;1
+2014;group stage;South Korea;Belgium;0;1
+2014;round of 16;Brazil;Chile;1;1
+2014;round of 16;Colombia;Uruguay;2;0
+2014;round of 16;Netherlands;Mexico;2;1
+2014;round of 16;Costa Rica;Greece;1;1
+2014;round of 16;France;Nigeria;2;0
+2014;round of 16;Germany;Algeria;2;1
+2014;round of 16;Argentina;Switzerland;1;0
+2014;round of 16;Belgium;United States;2;1
+2014;quarter-finals;France;Germany;0;1
+2014;quarter-finals;Brazil;Colombia;2;1
+2014;quarter-finals;Argentina;Belgium;1;0
+2014;quarter-finals;Netherlands;Costa Rica;0;0
+2014;semi-finals;Brazil;Germany;1;7
+2014;semi-finals;Netherlands;Argentina;0;0
+2014;third-place match;Brazil;Netherlands;0;3
+2014;final;Germany;Argentina;1;0
+2018;group stage;Russia;Saudi Arabia;5;0
+2018;group stage;Egypt;Uruguay;0;1
+2018;group stage;Morocco;Iran;0;1
+2018;group stage;Portugal;Spain;3;3
+2018;group stage;France;Australia;2;1
+2018;group stage;Argentina;Iceland;1;1
+2018;group stage;Peru;Denmark;0;1
+2018;group stage;Croatia;Nigeria;2;0
+2018;group stage;Costa Rica;Serbia;0;1
+2018;group stage;Germany;Mexico;0;1
+2018;group stage;Brazil;Switzerland;1;1
+2018;group stage;Sweden;South Korea;1;0
+2018;group stage;Belgium;Panama;3;0
+2018;group stage;Tunisia;England;1;2
+2018;group stage;Colombia;Japan;1;2
+2018;group stage;Poland;Senegal;1;2
+2018;group stage;Russia;Egypt;3;1
+2018;group stage;Portugal;Morocco;1;0
+2018;group stage;Uruguay;Saudi Arabia;1;0
+2018;group stage;Iran;Spain;0;1
+2018;group stage;Denmark;Australia;1;1
+2018;group stage;France;Peru;1;0
+2018;group stage;Argentina;Croatia;0;3
+2018;group stage;Brazil;Costa Rica;2;0
+2018;group stage;Nigeria;Iceland;2;0
+2018;group stage;Serbia;Switzerland;1;2
+2018;group stage;Belgium;Tunisia;5;2
+2018;group stage;South Korea;Mexico;1;2
+2018;group stage;Germany;Sweden;2;1
+2018;group stage;England;Panama;6;1
+2018;group stage;Japan;Senegal;2;2
+2018;group stage;Poland;Colombia;0;3
+2018;group stage;Saudi Arabia;Egypt;2;1
+2018;group stage;Uruguay;Russia;3;0
+2018;group stage;Spain;Morocco;2;2
+2018;group stage;Iran;Portugal;1;1
+2018;group stage;Australia;Peru;0;2
+2018;group stage;Denmark;France;0;0
+2018;group stage;Iceland;Croatia;1;2
+2018;group stage;Nigeria;Argentina;1;2
+2018;group stage;South Korea;Germany;2;0
+2018;group stage;Mexico;Sweden;0;3
+2018;group stage;Serbia;Brazil;0;2
+2018;group stage;Switzerland;Costa Rica;2;2
+2018;group stage;Japan;Poland;0;1
+2018;group stage;Senegal;Colombia;0;1
+2018;group stage;England;Belgium;0;1
+2018;group stage;Panama;Tunisia;1;2
+2018;round of 16;France;Argentina;4;3
+2018;round of 16;Uruguay;Portugal;2;1
+2018;round of 16;Spain;Russia;1;1
+2018;round of 16;Croatia;Denmark;1;1
+2018;round of 16;Brazil;Mexico;2;0
+2018;round of 16;Belgium;Japan;3;2
+2018;round of 16;Sweden;Switzerland;1;0
+2018;round of 16;Colombia;England;1;1
+2018;quarter-finals;Uruguay;France;0;2
+2018;quarter-finals;Brazil;Belgium;1;2
+2018;quarter-finals;Sweden;England;0;2
+2018;quarter-finals;Russia;Croatia;2;2
+2018;semi-finals;France;Belgium;1;0
+2018;semi-finals;Croatia;England;2;1
+2018;third-place match;Belgium;England;2;0
+2018;final;France;Croatia;4;2
+2022;group stage;Qatar;Ecuador;0;2
+2022;group stage;England;Iran;6;2
+2022;group stage;Senegal;Netherlands;0;2
+2022;group stage;United States;Wales;1;1
+2022;group stage;Argentina;Saudi Arabia;1;2
+2022;group stage;Denmark;Tunisia;0;0
+2022;group stage;Mexico;Poland;0;0
+2022;group stage;France;Australia;4;1
+2022;group stage;Morocco;Croatia;0;0
+2022;group stage;Germany;Japan;1;2
+2022;group stage;Spain;Costa Rica;7;0
+2022;group stage;Belgium;Canada;1;0
+2022;group stage;Switzerland;Cameroon;1;0
+2022;group stage;Uruguay;South Korea;0;0
+2022;group stage;Portugal;Ghana;3;2
+2022;group stage;Brazil;Serbia;2;0
+2022;group stage;Wales;Iran;0;2
+2022;group stage;Qatar;Senegal;1;3
+2022;group stage;Netherlands;Ecuador;1;1
+2022;group stage;England;United States;0;0
+2022;group stage;Tunisia;Australia;0;1
+2022;group stage;Poland;Saudi Arabia;2;0
+2022;group stage;France;Denmark;2;1
+2022;group stage;Argentina;Mexico;2;0
+2022;group stage;Japan;Costa Rica;0;1
+2022;group stage;Belgium;Morocco;0;2
+2022;group stage;Croatia;Canada;4;1
+2022;group stage;Spain;Germany;1;1
+2022;group stage;Cameroon;Serbia;3;3
+2022;group stage;South Korea;Ghana;2;3
+2022;group stage;Brazil;Switzerland;1;0
+2022;group stage;Portugal;Uruguay;2;0
+2022;group stage;Ecuador;Senegal;1;2
+2022;group stage;Netherlands;Qatar;2;0
+2022;group stage;Iran;United States;0;1
+2022;group stage;Wales;England;0;3
+2022;group stage;Australia;Denmark;1;0
+2022;group stage;Tunisia;France;1;0
+2022;group stage;Poland;Argentina;0;2
+2022;group stage;Saudi Arabia;Mexico;1;2
+2022;group stage;Canada;Morocco;1;2
+2022;group stage;Croatia;Belgium;0;0
+2022;group stage;Costa Rica;Germany;2;4
+2022;group stage;Japan;Spain;2;1
+2022;group stage;Ghana;Uruguay;0;2
+2022;group stage;South Korea;Portugal;2;1
+2022;group stage;Cameroon;Brazil;1;0
+2022;group stage;Serbia;Switzerland;2;3
+2022;round of 16;Netherlands;United States;3;1
+2022;round of 16;Argentina;Australia;2;1
+2022;round of 16;France;Poland;3;1
+2022;round of 16;England;Senegal;3;0
+2022;round of 16;Japan;Croatia;1;1
+2022;round of 16;Brazil;South Korea;4;1
+2022;round of 16;Morocco;Spain;0;0
+2022;round of 16;Portugal;Switzerland;6;1
+2022;quarter-finals;Croatia;Brazil;1;1
+2022;quarter-finals;Netherlands;Argentina;2;2
+2022;quarter-finals;Morocco;Portugal;1;0
+2022;quarter-finals;England;France;1;2
+2022;semi-finals;Argentina;Croatia;3;0
+2022;semi-finals;France;Morocco;2;0
+2022;third-place match;Croatia;Morocco;2;1
+2022;final;Argentina;France;3;3

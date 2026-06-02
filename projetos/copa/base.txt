@@ -1,0 +1,30 @@
+Linkedin
+Em 2010 ganhei um bolão da Copa do Mundo usando estatística, sem entender de futebol.
+
+Alguns amigos me convidaram para um bolão da Copa do Mundo de 2010. Resolvi participar pela brincadeira, mas como eu não acompanho futebol resolvi usar estatística:
+- Vencedores: acessei dois sites de apostas e marquei como vencedor sempre o favorito do mercado.
+- Placares: acertar o placar exato dava mais pontos, então analisei dados de duas ou três Copas anteriores no Excel. Vi que 1x0 era o placar mais frequente para vitórias e 1x1 para empates. Usei somente esses placares em todos os jogos.
+- Campeão: acertar o campeão dava muitos pontos. Eu coloquei Espanha, que era a favorita do mercado, uma pessoa marcou Holanda e todos os outros apostaram que o Brasil seria campeão.
+
+Antes do último jogo eu tinha mais pontos e o segundo colocado era aquele que tinha marcado a Holanda como campeã. Inclusive, ele me passaria se a Holanda vencesse. A Espanha venceu a final por 1x0.
+
+Estudando Python, resolvi refazer essa análise. Na época, usei dados mal estruturados e deu o maior trabalho fazer isso no Excel. Agora o processo é muito mais simples: é possível baixar o histórico completo das Copas direto de um repositório no GitHub (https://github.com/jfjelstul/worldcup) e consultar o favoritismo de cada time via API (https://the-odds-api.com/). Outra fonte muito boa é o https://www.football-data.co.uk/data.php, que tem dados de diversos campeonatos pelo mundo, e já vi que o 1x0 é o placar mais frequente não só na Copa do Mundo.
+
+Analisando todas as Copas usando Python, encontrei algumas coisas interessantes:
+- Nas Copas até 1966, o placar mais frequente era o 2x1, seguido pelo 3x1. O 1x0 era o terceiro.
+- De 1970 para frente, o 1x0 é quase sempre mais frequente e apareceu em 20,8% dos jogos.
+- Até a Copa de 1958, os jogos tinham média acima de 3,5 gols. De 1962 em diante, a média estabilizou entre 2 e 3 gols por jogo.
+- O 1x0 é o placar mais frequente no total, mas o 2x1 aparece mais em jogos eliminatórios, onde quem perder é eliminado da Copa.
+- Em 1938, desde o primeiro jogo, quem perdia era eliminado. Não houve nenhum placar de 1x0.
+
+Além da estatística, contei com a sorte:
+- 2010 foi a 2ª Copa com mais resultados de 1x0 na história (atrás apenas de 1978).
+- Na Copa seguinte (2014), o 2x1 foi mais frequente.
+- Em 2022, o 2x0 e o 2x1 foram mais frequentes que o 1x0.
+
+Curiosidades:
+- O placar de 7x1 aconteceu em 3 Copas, sendo um deles a vitória do Brasil contra a Suécia em 1950.
+- O jogo com mais gols marcados por uma única equipe foi Hungria 10x1 El Salvador (1982).
+- A partida com maior número total de gols foi Áustria 7x5 Suíça (1954).
+
+Esse foi o primeiro e último bolão de Copa do Mundo que participei. Quero manter a taxa de vitórias em 100%.

@@ -1,0 +1,439 @@
+# Fontes públicas MUITO ricas
+## Brasil
+* [IBGE](https://www.ibge.gov.br?utm_source=chatgpt.com)
+* [DATASUS](https://datasus.saude.gov.br?utm_source=chatgpt.com)
+[1]: https://datasus.saude.gov.br/informacoes-de-saude-tabnet/?utm_source=chatgpt.com "Informações de Saúde (TABNET) – DATASUS"
+[3]: https://opendatasus.saude.gov.br/tr/dataset/sim?utm_source=chatgpt.com "Sistema de Informação sobre Mortalidade – SIM - Veri seti - OPENDATASUS"
+[4]: https://datasus.saude.gov.br/estatisticas-vitais/?utm_source=chatgpt.com "Estatísticas Vitais – DATASUS"
+[5]: https://tabnet.datasus.gov.br/cgi/sih/midescr.htm?utm_source=chatgpt.com "Morbidade Hospitalar do SUS - por local de internação - Notas Técnicas"
+[6]: https://datasus.saude.gov.br/epidemiologicas-e-morbidade/?utm_source=chatgpt.com "Epidemiológicas e Morbidade – DATASUS"
+[7]: https://datasus.saude.gov.br/paineis-de-monitoramento-svs/?utm_source=chatgpt.com "Painéis de monitoramento (SVS) – DATASUS"
+* [IPEA](https://www.ipea.gov.br?utm_source=chatgpt.com)
+* [Portal Brasileiro de Dados Abertos](https://dados.gov.br?utm_source=chatgpt.com)
+* [INEP](https://www.gov.br/inep?utm_source=chatgpt.com)
+* [CAGED](https://www.gov.br/trabalho-e-emprego?utm_source=chatgpt.com)
+* [Banco Central](https://www.bcb.gov.br?utm_source=chatgpt.com)
+* [MapBiomas](https://mapbiomas.org?utm_source=chatgpt.com)
+[SIDRA IBGE](https://sidra.ibge.gov.br?utm_source=chatgpt.com)
+[1]: https://sidra.ibge.gov.br/pesquisa/pnad/geral/pesquisa-basica?utm_source=chatgpt.com "Sistema IBGE de Recuperação Automática - SIDRA"
+[Censo Demográfico](https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html?utm_source=chatgpt.com)
+[PNAD Contínua](https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?utm_source=chatgpt.com)
+Tem: trabalho, renda, educação, tecnologia, internet, home office, informalidade, desemprego, trabalho remoto,
+celulares, streaming, estudo
+[POF](https://www.ibge.gov.br/estatisticas/sociais/populacao/24786-pesquisa-de-orcamentos-familiares-2.html?utm_source=chatgpt.com)
+## [Portal de Dados Abertos do TSE](https://dadosabertos.tse.jus.br/?utm_source=chatgpt.com)
+
+## Globais
+* [Kaggle](https://www.kaggle.com?utm_source=chatgpt.com)
+* [Our World in Data](https://ourworldindata.org?utm_source=chatgpt.com)
+* [World Bank Data](https://data.worldbank.org?utm_source=chatgpt.com)
+* [Google Trends](https://trends.google.com?utm_source=chatgpt.com)
+
+# Ideias por assunto
+
+## 1. Cidades e urbanismo
+1) "A melhor cidade para home office"
+2) "Qual cidade brasileira tem o melhor custo-benefício para surfistas?"
+Cruzar:
+* qualidade de ondas
+* custo de aluguel
+* segurança
+* clima
+* crowd
+* distância da praia
+3) Rankings inesperados
+* "A capital mais ansiosa do Brasil"
+* "As cidades onde as pessoas mais trabalham"
+* "Onde o aluguel destrói mais o salário"
+4) "As cidades mais jovens realmente são mais violentas?"
+Cruzar:
+* idade média
+* escolaridade
+* renda
+* violência
+5) "Cidades mais quentes têm menos produtividade?"
+Cruzar:
+* clima
+* PIB per capita
+* escolaridade
+* produtividade
+6) "O mapa da solidão"
+Usar:
+* número de moradores por residência
+* envelhecimento
+* casamentos
+* divórcios
+* "Onde mais pessoas moram sozinhas no Brasil"
+* idade X morar sozinho
+7) "Quanto custa viver sozinho em cada cidade?"
+Cruzar:
+* aluguel
+* renda
+* tamanho das famílias
+* custo básico
+8) "Onde o tempo de vida é mais desperdiçado no trânsito?"
+* tempo de deslocamento X renda
+* "As cidades que mais desperdiçam vida no trânsito"
+* "Quanto da sua vida é perdido indo trabalhar"
+
+## 2. Sociedade e demografia
+1) "O Brasil está acordando mais tarde?"
+Usar:
+* horários de postagens públicas
+* trânsito
+* consumo de energia
+* Google Trends
+* dados de mobilidade
+Possíveis análises:
+* mudança pós-pandemia
+2) "Como vive o brasileiro médio?"
+Você literalmente monta:
+* renda
+* tempo de deslocamento
+* número de filhos
+* escolaridade
+* tipo de casa
+* internet
+* idade
+* tempo no celular (proxy via outras pesquisas)
+3) Relacionamentos
+* idade média para casar
+* morar sozinho
+* fertilidade
+* diferença de renda entre casais
+4) "As pessoas realmente estão tendo menos filhos porque querem?"
+5) Registro Civil
+[Registro Civil](https://www.ibge.gov.br/estatisticas/sociais/populacao/9110-estatisticas-do-registro-civil.html?utm_source=chatgpt.com)
+Tem:
+- casamentos, divórcios, nascimentos, mortes:
+* "O brasileiro está casando menos?"
+* "A queda silenciosa da natalidade"
+6) mais mulheres casadas do que homens casados.
+7) Cidades com maior diferença de % de homens e mulheres.
+
+## 3. Trabalho e economia
+1) "Quanto tempo uma pessoa precisa trabalhar para comprar X?"
+Comparar:
+* salário médio local
+* preço do produto
+* aluguel
+* gasolina
+* iPhone
+* carro
+* PS5
+* cesta básica
+2) "Quais profissões desapareceram?"
+Usar dados históricos do CAGED/IBGE.
+Mostrar:
+* profissões em queda
+* profissões novas
+* profissões substituídas por tecnologia
+3) Home office
+* internet
+* densidade
+* custo
+* mobilidade
+4) "Quais profissões mais aderiram ao home office"
+
+## 4. Crime
+1) "Quais crimes mais cresceram silenciosamente?"
+Em vez de focar em homicídio:
+* golpes digitais
+* furtos específicos
+* violência psicológica
+* estelionato online
+Narrativa forte:
+"Os crimes que quase ninguém percebeu que explodiram".
+
+## 5. Saúde
+1) "Qual profissão mais adoece?"
+* afastamentos do INSS
+* ocupações
+* doenças
+* burnout
+* ansiedade
+Fontes:
+* [DATASUS](https://datasus.saude.gov.br?utm_source=chatgpt.com)
+* [INSS](https://www.gov.br/inss?utm_source=chatgpt.com)
+2) "O Brasil dorme mal?"
+* consumo de remédios
+* café
+* acidentes
+* produtividade
+* uso de celular
+* jornadas de trabalho
+3) "O mapa da depressão no Brasil"
+Cruzar:
+* antidepressivos
+* suicídio
+* renda
+* urbanização
+* isolamento
+* temperatura
+4) PNS
+[Pesquisa Nacional de Saúde](https://www.ibge.gov.br/estatisticas/sociais/saude/9160-pesquisa-nacional-de-saude.html?utm_source=chatgpt.com)
+Mistura:
+* saúde, hábitos, doenças, atividade física, saúde mental
+5) "A geografia da longevidade"
+Você pode mostrar:
+* bairros/cidades onde as pessoas vivem mais
+* diferenças absurdas entre regiões próximas
+6) "Do que o brasileiro morre — e como isso mudou"
+* transição epidemiológica
+* doenças infecciosas → doenças crônicas
+* violência
+* envelhecimento
+7) "Onde nascer é mais perigoso?"
+Analisar:
+* mortalidade neonatal
+* mortalidade materna
+o DATASUS mantém painéis específicos para mortalidade infantil e materna. ([Datasus][7])
+> "Hoje milhares de crianças sobrevivem que provavelmente morreriam nos anos 80."
+8) expectativa de vida aos 2 anos maior que ao nascer
+
+## 6. Eleições
+1) TSE
+[Portal de Dados Abertos do TSE](https://dadosabertos.tse.jus.br/?utm_source=chatgpt.com)
+Ali você consegue baixar:
+* resultados por município
+* resultados por zona
+* resultados por seção
+* comparecimento
+* abstenção
+* perfil do eleitorado
+* candidaturas
+* patrimônio declarado
+* prestação de contas
+* doações
+* pesquisas eleitorais
+* filiações partidárias
+* dados históricos desde os anos 90 em vários casos ([Vottus][2])
+2) "O mapa da desistência política"
+Analisar:
+* crescimento da abstenção
+* voto branco
+* voto nulo
+* evolução temporal
+Cruzar com:
+* renda
+* violência
+* escolaridade
+* envelhecimento
+* urbanização
+3) "Quais cidades sempre votam no perdedor?"
+
+## 7. Consumo (POF)
+1) POF
+* consumo de café
+* refrigerante
+* streaming
+* transporte
+* lazer
+* alimentação fora de casa
+
+## 8. Redes e conteúdo
+1) "O Brasil assiste YouTube em que horário?"
+Usar APIs públicas:
+* YouTube
+* tendências
+* redes sociais
+Análises:
+* horários por região
+* diferenças etárias
+* temas por estado
+2) "Qual o melhor horário para viralizar conteúdo?"
+Analisar:
+* engajamento
+* horários
+* dias
+* nichos
+
+## 9. Música
+1) "Quais músicas dominam cada região?"
+Usar:
+* Spotify charts
+* YouTube
+* rádios
+* TikTok trends
+2) "A música ficou mais triste?"
+* tonalidade, energia, valência, velocidade ao longo das décadas
+3) "O pop ficou mais repetitivo?"
+* duração média, estrutura, repetição, acordes, BPM
+4) "As músicas estão ficando mais curtas?"
+5) "A música mais feliz dos anos 80 vs hoje"
+6) "Qual país ouve músicas mais tristes?"
+7) "O mundo está ouvindo músicas mais calmas?"
+8) "Qual gênero envelhece melhor?"
+9) "As músicas virais estão mais rápidas?"
+10) "O mapa emocional da música"
+* emoções dominantes por gênero (tags humanas)
+11) "As pessoas escutam música triste quando estão tristes?"
+12) "Quais gêneros mais conectam pessoas?"
+* redes de similaridade musical
+13) "Quais músicas aparecem em playlists de término?"
+14) "O que as pessoas ouvem para estudar?"
+15) "Como muda a música de academia ao longo do tempo?"
+16) "As playlists felizes e tristes têm padrões musicais diferentes?"
+17) "As letras ficaram mais depressivas?"
+18) "O amor mudou nas músicas?"
+19) "Quais palavras desapareceram do pop?"
+20) "A música brasileira ficou mais explícita?"
+21) "Qual década usava vocabulário mais complexo?"
+22) "Qual cidade produz mais artistas?"
+23) "Como gêneros musicais se espalham?"
+24) "O mapa mundial do reggaeton"
+25) "Como o K-pop se espalhou pelo mundo?"
+26) "A música ficou mais acelerada?"
+27) "As músicas felizes sumiram?"
+28) "O streaming matou as introduções longas?"
+29) "Qual década tinha mais diversidade musical?"
+30) "Existe fórmula de música viral?"
+31) "Quais artistas conectam mundos musicais diferentes?"
+* artistas ponte entre gêneros (grafos)
+32) "A década mais feliz da música"
+33) "O ano em que o pop mudou"
+34) "As músicas ficaram mais tristes desde 2000?"
+* valence, tempo, energia, letras
+35) "O streaming mudou a estrutura das músicas?"
+* duração, tempo até refrão, intros
+36) "Existe assinatura musical de cada geração?"
+37) "O Brasil ouve diferente do resto do mundo?"
+* charts globais vs Brasil
+38) "A música brasileira ficou mais parecida?"
+* embeddings/clustering
+39) Polarização musical por região (música + eleições)
+40) Música e saúde mental por região
+41) Gênero musical por perfil social (música + IBGE)
+
+## 10. Empresas
+1) CEMPRE — Cadastro Central de Empresas
+[CEMPRE](https://www.ibge.gov.br/estatisticas/economicas/servicos/9016-estatisticas-do-cadastrocentral-de-empresas.html?edicao=37088&utm_source=chatgpt.com)
+Tem:
+* empresas, salários, porte, CNAE, distribuição geográfica, empregos formais
+2) "O Brasil virou país de MEI?"
+3) "Quais cidades mais criam empresas?"
+4) "Quais setores explodiram após a pandemia?"
+5) "O home office criou novas empresas?"
+6) "O MEI virou carteira de trabalho informal?"
+7) "O home office criou empresas de uma pessoa só?"
+* CNAEs digitais, região, densidade urbana
+8) "Quais profissões viraram PJ?"
+* CNAE, crescimento do MEI, pandemia, renda
+9) "Qual bairro mais cria startups?"
+10) "As empresas estão saindo dos centros?"
+11) "A geografia silenciosa do home office"
+12) "Onde o empreendedorismo é mais volátil?"
+13) "O Brasil virou um país de empresas de uma pessoa só?"
+14) "O home office mudou o mapa das empresas?"
+* interiorização, cidades médias, coworkings, CNAEs digitais
+15) "Quais negócios mais sobreviveram à pandemia?"
+16) "Quais setores explodiram silenciosamente?"
+* marketing digital, TI, creators, logística, delivery
+17) "Qual cidade mais empreende?"
+* empresas per capita, sobrevivência, crescimento
+18) "As empresas brasileiras estão ficando menores?"
+19) "O Brasil PJ"
+* explosão de MEIs, pejotização, trabalho remoto, microempresas digitais
+
+## 11. Medicamentos
+1) "O Brasil está mais ansioso?" (medicamentos)
+* antidepressivos, benzodiazepínicos, zolpidem, região, faixa etária, pandemia
+2) "O mapa dos remédios para dormir"
+* cidades, estados, evolução temporal, envelhecimento, renda
+3) "Os antibióticos diminuíram após o controle de receita?"
+4) "A explosão dos remédios para emagrecer"
+* Ozempic, Wegovy, Mounjaro, sibutramina, fórmulas
+5) "O Brasil está medicalizando emoções?"
+* antidepressivos, ansiolíticos, estimulantes, idade, sexo, região
+6) "Quem usa mais remédio para TDAH?"
+* Ritalina, Venvanse
+7) "Qual região mais usa antibióticos?"
+* clima, renda, urbanização, densidade, acesso médico
+8) "A pandemia mudou o consumo de medicamentos?"
+* antidepressivos, ansiolíticos, sono, vitaminas, antibióticos
+9) "O boom silencioso dos anabolizantes"
+10) "Academias e uso de testosterona cresceram juntos?"
+11) "A estética masculina mudou o consumo de hormônios?"
+12) Opioides: Brasil vs EUA
+* evolução histórica, diferenças regionais, consumo hospitalar
+13) "Quais medicamentos mais faltam?"
+14) "Onde há maior consumo de medicamentos do SUS?"
+15) "O envelhecimento do Brasil aparece nos remédios?"
+16) "Quais doenças cresceram silenciosamente?" (via medicamentos)
+17) Medicamentos x eleições
+18) Medicamentos x desemprego
+19) Medicamentos x urbanização
+20) Medicamentos x calor
+21) Medicamentos x violência
+22) "O país da ansiedade" (mapa de medicamentos)
+23) "As cidades mais medicalizadas"
+24) "A pandemia mudou o cérebro do brasileiro?" (psicotrópicos antes/depois)
+
+## 12. Esporte
+1) PNAD 2015 – Prática de Esporte e Atividade Física
+"Qual esporte envelhece melhor?"
+* quais esportes continuam sendo praticados após os 40, 50, 60 anos.
+2) "O esporte mais elitizado do Brasil"
+Cruzar:
+* renda
+* escolaridade
+* região
+* modalidade
+3) "O Brasil realmente é o país do futebol?"
+Porque talvez:
+* caminhada
+* musculação
+* corrida
+* ciclismo
+4) "Quais esportes as pessoas abandonam mais cedo?"
+* idade média de abandono
+* diferenças entre homens e mulheres
+* impacto do trabalho
+* maternidade/paternidade
+5) BPM ideal para corrida e playlists de academia (música + esporte)
+6) Estatísticas de cubo mágico
+7) Copa do mundo ganhei o bolão na estatística
+
+## 13. NBA
+1) "Qual a altura mais comum da NBA?"
+2) "Existe altura ideal por posição?"
+* histogramas por posição, violin plots, KDE
+3) "A NBA está ficando mais alta?"
+* evolução histórica da altura média
+4) "Qual posição mudou mais fisicamente?"
+* pivôs mais leves, armadores mais altos
+5) "Como seria sua altura dentro da NBA?"
+* percentil NBA vs população
+6) Clustering de tipos corporais na NBA
+7) Evolução física do jogo ao longo do tempo
+8) Países mais altos e presença na NBA
+9) Altura x desempenho na NBA
+* eficiência, posição, longevidade
+10) "Quão raro é ter altura de jogador da NBA no Brasil?"
+* percentil, probabilidade, quantos brasileiros têm altura NBA
+11) "Apenas X% dos brasileiros têm altura típica da NBA"
+12) "Qual sua altura dentro da NBA?" (percentil Brasil vs NBA)
+13) NBA vs homens vs mulheres brasileiros (mesmo gráfico)
+14) Altura por posição na NBA vs população brasileira
+15) Comparar altura média e presença na NBA: Brasil, EUA, Sérvia, Holanda
+
+## 14. Animais
+1) Estatísticas sobre animais, talvez marinhos
+
+## 15. Meio ambiente
+1) Estatísticas sobre icebergs
+
+## 16. Educação
+1) Alterações das notas de corte de alguns cursos no vestibular. Está mais concorrido?
+
+## 17. Tecnologia
+
+------------------------------------------------------------------------------
+JÁ FEITOS
+1)"Qual a distribuição real das alturas na NBA?"
+* arredondamento oficial de altura
+NBA vs população geral (histograma comparativo)
+2) "Quais cidades mais acertam o resultado nacional?"
+* erro = |resultado cidade - resultado Brasil|
+* média histórica do erro, ranking das cidades mais alinhadas ao país
+1) Tem uma forma simples de dar um panorama geral do armazenamento do meu computador com Python?

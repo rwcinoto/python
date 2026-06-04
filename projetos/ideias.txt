@@ -416,6 +416,7 @@ Porque talvez:
 13) NBA vs homens vs mulheres brasileiros (mesmo gráfico)
 14) Altura por posição na NBA vs população brasileira
 15) Comparar altura média e presença na NBA: Brasil, EUA, Sérvia, Holanda
+16) Correlação entre altura e lance livre
 
 ## 14. Animais
 1) Estatísticas sobre animais, talvez marinhos

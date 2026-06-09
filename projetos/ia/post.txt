@@ -1,0 +1,28 @@
+O brasileiro tem medo da IA roubar seu emprego, mas a maioria nem usou ainda. Continuando meus estudos com Python, juntei dados de duas pesquisas com brasileiros e ficou mais interessante do que eu pensava.
+
+Pesquisa Latinobarómetro (https://www.latinobarometro.org/time-series):
+Quando perguntam se IA e robótica vão eliminar MAIS empregos do que criar:
+- 2017: 77% concordaram
+- 2020: 65% concordaram
+
+Quando a pergunta é "robôs vão tomar MEU emprego em 10 anos":
+- 2020: 50% concordam
+- 2023: 50% concordam
+
+O brasileiro teme o futuro do trabalho em geral, mas o medo de perder o próprio emprego é menor. O medo da falta de emprego diminuiu, mas ainda achei muito alto. O medo dos robôs tomarem o emprego não mudou nada entre 2020 e 2023.
+
+Não temos dados sobre isso no Latinobarómetro após 2023, então peguei a pesquisa TIC domicílios 2025 (https://cetic.br/pt/arquivos/domicilios/2025/individuos). Estamos falando da IA roubando emprego e:
+- 66,6% das pessoas nunca usaram IA;
+- dessas que não usaram (podiam marcar mais de uma razão), 51,9% nem sabiam que esse tipo de ferramenta existia e 63,5% disseram ter preocupação com segurança ou privacidade.
+
+Quando surgiram os computadores, todo mundo achou que ia perder o emprego para as máquinas. Não foi bem assim, algumas vagas sumiram, outras apareceram. Igual quando surgiu o CD e ninguém mais comprava disco de vinil.
+
+Muitos imaginaram que a gente ia trabalhar menos, porque as máquinas fariam nosso trabalho. Hoje trabalhamos mais, até em casa se trabalha.
+
+Com IA parece que está acontecendo a mesma coisa, só que mais rápido. A produtividade explodiu, mas em vez de trabalharmos menos, todo mundo quer trabalhar mais. Queremos colocar em prática aqueles projetos que ficavam parados por falta de tempo ou conhecimento. Conheço muita gente que já tá nessa. Se você não está, talvez esteja no grupo que não usou IA.
+
+Quero ver as próximas pesquisas pra saber se o medo vai diminuir (tomara!) conforme o uso da IA aumentar.
+
+Sobre o Python, tem uma coisa que achei interessante comentar. O arquivo .csv do Latinobarómetro de 2020 tem 505 colunas no cabeçalho, mas cada linha de dados tem 506 campos. Tem um ";" extra no final da linha. O pandas.read_csv deslocava os valores em uma coluna para a esquerda, só percebi isso porque os resultados de 2020 deram muito diferentes de 2017 e fui checar. A qualidade dos dados é sempre preocupante.
+
+[anexar o gráfico ia.png]

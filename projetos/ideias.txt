@@ -22,6 +22,7 @@ Tem: trabalho, renda, educação, tecnologia, internet, home office, informalida
 celulares, streaming, estudo
 [POF](https://www.ibge.gov.br/estatisticas/sociais/populacao/24786-pesquisa-de-orcamentos-familiares-2.html?utm_source=chatgpt.com)
 ## [Portal de Dados Abertos do TSE](https://dadosabertos.tse.jus.br/?utm_source=chatgpt.com)
+[World Values Survey](https://www.worldvaluessurvey.org/wvs.jsp?utm_source=chatgpt.com)
 
 ## Globais
 * [Kaggle](https://www.kaggle.com?utm_source=chatgpt.com)

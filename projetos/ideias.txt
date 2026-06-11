@@ -1,34 +1,35 @@
 # Fontes públicas MUITO ricas
 ## Brasil
-* [IBGE](https://www.ibge.gov.br?utm_source=chatgpt.com)
-* [DATASUS](https://datasus.saude.gov.br?utm_source=chatgpt.com)
-[1]: https://datasus.saude.gov.br/informacoes-de-saude-tabnet/?utm_source=chatgpt.com "Informações de Saúde (TABNET) – DATASUS"
-[3]: https://opendatasus.saude.gov.br/tr/dataset/sim?utm_source=chatgpt.com "Sistema de Informação sobre Mortalidade – SIM - Veri seti - OPENDATASUS"
-[4]: https://datasus.saude.gov.br/estatisticas-vitais/?utm_source=chatgpt.com "Estatísticas Vitais – DATASUS"
-[5]: https://tabnet.datasus.gov.br/cgi/sih/midescr.htm?utm_source=chatgpt.com "Morbidade Hospitalar do SUS - por local de internação - Notas Técnicas"
-[6]: https://datasus.saude.gov.br/epidemiologicas-e-morbidade/?utm_source=chatgpt.com "Epidemiológicas e Morbidade – DATASUS"
-[7]: https://datasus.saude.gov.br/paineis-de-monitoramento-svs/?utm_source=chatgpt.com "Painéis de monitoramento (SVS) – DATASUS"
-* [IPEA](https://www.ipea.gov.br?utm_source=chatgpt.com)
-* [Portal Brasileiro de Dados Abertos](https://dados.gov.br?utm_source=chatgpt.com)
-* [INEP](https://www.gov.br/inep?utm_source=chatgpt.com)
-* [CAGED](https://www.gov.br/trabalho-e-emprego?utm_source=chatgpt.com)
-* [Banco Central](https://www.bcb.gov.br?utm_source=chatgpt.com)
-* [MapBiomas](https://mapbiomas.org?utm_source=chatgpt.com)
-[SIDRA IBGE](https://sidra.ibge.gov.br?utm_source=chatgpt.com)
-[1]: https://sidra.ibge.gov.br/pesquisa/pnad/geral/pesquisa-basica?utm_source=chatgpt.com "Sistema IBGE de Recuperação Automática - SIDRA"
-[Censo Demográfico](https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html?utm_source=chatgpt.com)
-[PNAD Contínua](https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?utm_source=chatgpt.com)
+* [IBGE](https://www.ibge.gov.br)
+* [DATASUS](https://datasus.saude.gov.br)
+[1]: https://datasus.saude.gov.br/informacoes-de-saude-tabnet/ "Informações de Saúde (TABNET) – DATASUS"
+[3]: https://opendatasus.saude.gov.br/tr/dataset/sim "Sistema de Informação sobre Mortalidade – SIM - Veri seti - OPENDATASUS"
+[4]: https://datasus.saude.gov.br/estatisticas-vitais/ "Estatísticas Vitais – DATASUS"
+[5]: https://tabnet.datasus.gov.br/cgi/sih/midescr.htm "Morbidade Hospitalar do SUS - por local de internação - Notas Técnicas"
+[6]: https://datasus.saude.gov.br/epidemiologicas-e-morbidade/ "Epidemiológicas e Morbidade – DATASUS"
+[7]: https://datasus.saude.gov.br/paineis-de-monitoramento-svs/ "Painéis de monitoramento (SVS) – DATASUS"
+* [IPEA](https://www.ipea.gov.br)
+* [Portal Brasileiro de Dados Abertos](https://dados.gov.br)
+* [INEP](https://www.gov.br/inep)
+* [CAGED](https://www.gov.br/trabalho-e-emprego)
+* [Banco Central](https://www.bcb.gov.br)
+* [MapBiomas](https://mapbiomas.org)
+[SIDRA IBGE](https://sidra.ibge.gov.br)
+[1]: https://sidra.ibge.gov.br/pesquisa/pnad/geral/pesquisa-basica "Sistema IBGE de Recuperação Automática - SIDRA"
+[Censo Demográfico](https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html)
+[PNAD Contínua](https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html)
 Tem: trabalho, renda, educação, tecnologia, internet, home office, informalidade, desemprego, trabalho remoto,
 celulares, streaming, estudo
-[POF](https://www.ibge.gov.br/estatisticas/sociais/populacao/24786-pesquisa-de-orcamentos-familiares-2.html?utm_source=chatgpt.com)
-## [Portal de Dados Abertos do TSE](https://dadosabertos.tse.jus.br/?utm_source=chatgpt.com)
-[World Values Survey](https://www.worldvaluessurvey.org/wvs.jsp?utm_source=chatgpt.com)
+[POF](https://www.ibge.gov.br/estatisticas/sociais/populacao/24786-pesquisa-de-orcamentos-familiares-2.html)
+## [Portal de Dados Abertos do TSE](https://dadosabertos.tse.jus.br/)
+[World Values Survey](https://www.worldvaluessurvey.org/wvs.jsp)
+[CEMPRE](https://www.ibge.gov.br/estatisticas/economicas/servicos/9016-estatisticas-do-cadastrocentral-de-empresas.html?edicao=37088)
 
 ## Globais
-* [Kaggle](https://www.kaggle.com?utm_source=chatgpt.com)
-* [Our World in Data](https://ourworldindata.org?utm_source=chatgpt.com)
-* [World Bank Data](https://data.worldbank.org?utm_source=chatgpt.com)
-* [Google Trends](https://trends.google.com?utm_source=chatgpt.com)
+* [Kaggle](https://www.kaggle.com)
+* [Our World in Data](https://ourworldindata.org)
+* [World Bank Data](https://data.worldbank.org)
+* [Google Trends](https://trends.google.com)
 
 # Ideias por assunto
 
@@ -104,7 +105,7 @@ Você literalmente monta:
 * diferença de renda entre casais
 4) "As pessoas realmente estão tendo menos filhos porque querem?"
 5) Registro Civil
-[Registro Civil](https://www.ibge.gov.br/estatisticas/sociais/populacao/9110-estatisticas-do-registro-civil.html?utm_source=chatgpt.com)
+[Registro Civil](https://www.ibge.gov.br/estatisticas/sociais/populacao/9110-estatisticas-do-registro-civil.html)
 Tem:
 - casamentos, divórcios, nascimentos, mortes:
 * "O brasileiro está casando menos?"
@@ -154,8 +155,8 @@ Narrativa forte:
 * burnout
 * ansiedade
 Fontes:
-* [DATASUS](https://datasus.saude.gov.br?utm_source=chatgpt.com)
-* [INSS](https://www.gov.br/inss?utm_source=chatgpt.com)
+* [DATASUS](https://datasus.saude.gov.br)
+* [INSS](https://www.gov.br/inss)
 2) "O Brasil dorme mal?"
 * consumo de remédios
 * café
@@ -172,7 +173,7 @@ Cruzar:
 * isolamento
 * temperatura
 4) PNS
-[Pesquisa Nacional de Saúde](https://www.ibge.gov.br/estatisticas/sociais/saude/9160-pesquisa-nacional-de-saude.html?utm_source=chatgpt.com)
+[Pesquisa Nacional de Saúde](https://www.ibge.gov.br/estatisticas/sociais/saude/9160-pesquisa-nacional-de-saude.html)
 Mistura:
 * saúde, hábitos, doenças, atividade física, saúde mental
 5) "A geografia da longevidade"
@@ -194,7 +195,7 @@ o DATASUS mantém painéis específicos para mortalidade infantil e materna. ([D
 
 ## 6. Eleições
 1) TSE
-[Portal de Dados Abertos do TSE](https://dadosabertos.tse.jus.br/?utm_source=chatgpt.com)
+[Portal de Dados Abertos do TSE](https://dadosabertos.tse.jus.br/)
 Ali você consegue baixar:
 * resultados por município
 * resultados por zona

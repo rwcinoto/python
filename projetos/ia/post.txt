@@ -1,6 +1,6 @@
-O brasileiro tem medo da IA roubar seu emprego, mas a maioria nem usou ainda. Continuando meus estudos com Python, juntei dados de duas pesquisas com brasileiros e ficou mais interessante do que eu pensava.
+O brasileiro tem medo da IA roubar seu emprego, mas a maioria nem usou ainda. Continuando meus estudos com Python, juntei dados de três pesquisas com brasileiros.
 
-Pesquisa Latinobarómetro (https://www.latinobarometro.org/time-series):
+Na pesquisa Latinobarómetro (https://www.latinobarometro.org/time-series), que é o principal estudo de opinião pública na América Latina, feito em 18 países:
 Quando perguntam se IA e robótica vão eliminar MAIS empregos do que criar:
 - 2017: 77% concordaram
 - 2020: 65% concordaram
@@ -11,15 +11,17 @@ Quando a pergunta é "robôs vão tomar MEU emprego em 10 anos":
 
 O brasileiro teme o futuro do trabalho em geral, mas o medo de perder o próprio emprego é menor. O medo da falta de emprego diminuiu, mas ainda achei muito alto. O medo dos robôs tomarem o emprego não mudou nada entre 2020 e 2023.
 
-Não temos dados sobre isso no Latinobarómetro após 2023, então peguei a pesquisa TIC domicílios 2025 (https://cetic.br/pt/arquivos/domicilios/2025/individuos). Estamos falando da IA roubando emprego e:
-- 66,6% das pessoas nunca usaram IA;
+Não temos dados sobre IA no Latinobarómetro após 2023, e o ChatGPT chegou ao Brasil em novembro de 2022. Então peguei alguns dados mais recentes da pesquisa TIC domicílios 2025 (https://cetic.br/pt/arquivos/domicilios/2025/individuos), que mapeia o acesso às tecnologias de informação e comunicação no Brasil. Estamos falando da IA roubando emprego e, segundo a TIC de 9 de dezembro de 2025:
+- 66,6% das pessoas nunca tinham usado IA;
 - dessas que não usaram (podiam marcar mais de uma razão), 51,9% nem sabiam que esse tipo de ferramenta existia e 63,5% disseram ter preocupação com segurança ou privacidade.
 
-Quando surgiram os computadores, todo mundo achou que ia perder o emprego para as máquinas. Não foi bem assim, algumas vagas sumiram, outras apareceram. Igual quando surgiu o CD e ninguém mais comprava disco de vinil.
-
-Muitos imaginaram que a gente ia trabalhar menos, porque as máquinas fariam nosso trabalho. Hoje trabalhamos mais, até em casa se trabalha.
+Quando surgiram os computadores, todo mundo achou que ia perder o emprego para as máquinas. Não foi bem assim, algumas vagas sumiram, outras apareceram. Igual quando surgiu o CD e ninguém mais comprava disco de vinil. Muitos imaginaram que a gente ia trabalhar menos, porque as máquinas fariam nosso trabalho. Hoje trabalhamos mais, até em casa ou no carro se trabalha.
 
 Com IA parece que está acontecendo a mesma coisa, só que mais rápido. A produtividade explodiu, mas em vez de trabalharmos menos, todo mundo quer trabalhar mais. Queremos colocar em prática aqueles projetos que ficavam parados por falta de tempo ou conhecimento. Conheço muita gente que já tá nessa. Se você não está, talvez esteja no grupo que não usou IA.
+
+Por fim, a Pesquisa de Inovação Semestral (https://www.ibge.gov.br/estatisticas/investigacoes-experimentais/estatisticas-experimentais/35867-pesquisa-de-inovacao-semestral.html) trouxe boas novas: de 2022 a 2024, percentual de empresas industriais utilizando inteligência artificial subiu de 16,9% para 41,9%. Nas empresas com mais de 500 funcionários, esse percentual chega a 57,5%, enquanto nas indústrias de até 249 funcoinários, esse número é de 36,1% em média.
+
+Na Bellocopo, onde trabalho, no início de 2025 tínhamos dois projetos de TI com uma equipe de 7 pessoas. Hoje temos 9 pessoas na equipe e com 7 projetos em andamento. Cada um basicamente toca um projeto com a ajuda da IA.
 
 Quero ver as próximas pesquisas pra saber se o medo vai diminuir (tomara!) conforme o uso da IA aumentar.
 

@@ -1,13 +1,6 @@
-de 1994 a 2002 e 2012 a 2018 tem vagas e inscritos por curso
-de 2003 a 2011 baixei parte de arquivo diferente, então é outro formato, mas tem C/V direto
-de 2019 a 2026 mudou um pouco o layout do pdf, dividindo as inscrições em 3 partes:
- - 2019 a 2022 precisa consolidar as 3 partes no total da carreira
- - 2023 a 2026 tem consolidado o total, só precisa ignorar as 3 partes e usar o total
-
-Nas análises devemos desconisderar os cursos que começam com 'Treineiro' ou 'Treinamento' no nome.
-
 Achei um problema no arredondamento do Python, quando o resultado é 7,425, ele arredonda para 7,42
 O problema era o ponto flutuante, não a regra de arredondamento em si.
 63 / 40 parece ser 1.575, mas internamente o Python guarda algo como 1.574999999999999999. Com round(..., 2), isso vira 1.57 em vez de 1.58.
 A correção foi usar Decimal com ROUND_HALF_UP
 
+Os arquivos variam muito de ano a ano, e alguns anos precisei de mais de um arquivo para pegar as informações que eu precisava.

@@ -394,7 +394,6 @@ Porque talvez:
 * maternidade/paternidade
 5) BPM ideal para corrida e playlists de academia (música + esporte)
 6) Estatísticas de cubo mágico
-7) Copa do mundo ganhei o bolão na estatística
 
 ## 13. NBA
 1) "Qual a altura mais comum da NBA?"
@@ -439,4 +438,6 @@ NBA vs população geral (histograma comparativo)
 2) "Quais cidades mais acertam o resultado nacional?"
 * erro = |resultado cidade - resultado Brasil|
 * média histórica do erro, ranking das cidades mais alinhadas ao país
+7) Copa do mundo ganhei o bolão na estatística
 1) Tem uma forma simples de dar um panorama geral do armazenamento do meu computador com Python?
+1) listar os 10 maiores arquivos e pastas do diretório C:\ com Python

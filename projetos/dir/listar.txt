@@ -1,4 +1,7 @@
 # lista os 10 maiores arquivos do diretório atual
 Get-ChildItem -Recurse | Sort-Object -Property Length -Descending | Select-Object -First 10 FullName, @{Name="Size(MB)";Expression={[math]::round($_.Length/1MB,2)}}
 
+# lista os 10 maiores arquivos do diretório C:\
+Get-ChildItem -Path C:\ -Recurse -ErrorAction SilentlyContinue | Sort-Object -Property Length -Descending | Select-Object -First 10 FullName, @{Name="Size(MB)";Expression={[math]::round($_.Length/1MB,2)}}
+
 Para gerar o arquivo com pastas e arquivos demorou 4 min 40 seg. Só pastas demorou 4 min.

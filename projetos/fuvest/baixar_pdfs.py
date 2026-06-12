@@ -4,6 +4,8 @@ Baixa os PDFs de notas de corte / relação candidato-vaga da FUVEST.
 Uso:
     python baixar_pdfs.py
     python baixar_pdfs.py --ano-inicio 2010 --ano-fim 2026
+    python baixar_pdfs.py --corte
+    python baixar_pdfs.py --corte --ano-inicio 2005 --ano-fim 2008
 """
 
 from __future__ import annotations
@@ -20,6 +22,10 @@ from pypdf import PdfReader, PdfWriter
 
 BASE_URL = "https://www.fuvest.br/wp-content/uploads/"
 PASTA_PDFS = Path(__file__).resolve().parent / "pdfs"
+PASTA_PDFS_CORTE = PASTA_PDFS / "corte"
+
+# 2003–2011: PDF separado com notas de corte (pontos mínimo e máximo).
+ANOS_CORTE = list(range(2003, 2012))
 
 # 2003–2011: PDF de inscritos por região; só as últimas páginas têm C/V por curso.
 FONTES_INSCRITOS_REGIAO: dict[int, int] = {
@@ -43,6 +49,14 @@ ARQUIVOS_CONHECIDOS: dict[int, str] = {
 
 def nome_inscritos_por_regiao(ano: int) -> str:
     return f"fuvest_{ano}_inscritos_por_regiao.pdf"
+
+
+def nome_arquivo_corte(ano: int) -> str:
+    return f"fuvest_{ano}_corte.pdf"
+
+
+def url_corte(ano: int) -> str:
+    return BASE_URL + nome_arquivo_corte(ano)
 
 
 def candidatos_por_ano(ano: int) -> list[str]:
@@ -125,6 +139,56 @@ def resolver_arquivo(ano: int, ctx: ssl.SSLContext) -> tuple[str | None, str | N
     return None, None
 
 
+def baixar_pdfs_corte(
+    ano_inicio: int,
+    ano_fim: int,
+    *,
+    forcar: bool,
+    ctx: ssl.SSLContext,
+) -> None:
+    """Baixa fuvest_{ano}_corte.pdf (2003–2011) para pdfs/corte/{ano}.pdf."""
+    PASTA_PDFS_CORTE.mkdir(parents=True, exist_ok=True)
+
+    anos = [
+        ano
+        for ano in range(ano_inicio, ano_fim + 1)
+        if ano in ANOS_CORTE
+    ]
+    if not anos:
+        raise SystemExit(
+            "Nenhum ano no intervalo possui PDF de corte separado (2003–2011)."
+        )
+
+    encontrados = 0
+    falhas: list[int] = []
+
+    for ano in anos:
+        destino = PASTA_PDFS_CORTE / f"{ano}.pdf"
+        if destino.exists() and not forcar:
+            print(f"{ano}: já existe em corte/{destino.name}, pulando")
+            encontrados += 1
+            continue
+
+        url = url_corte(ano)
+        nome = nome_arquivo_corte(ano)
+        if not url_existe(url, ctx):
+            print(f"{ano}: {nome} não encontrado")
+            falhas.append(ano)
+            continue
+
+        print(f"{ano}: baixando {nome}...")
+        destino.write_bytes(baixar_bytes(url, ctx))
+        print(f"{ano}: salvo em corte/{destino.name}")
+        encontrados += 1
+        time.sleep(0.3)
+
+    total = len(anos)
+    print()
+    print(f"Concluído: {encontrados}/{total} anos com arquivo de corte local")
+    if falhas:
+        print(f"Anos não encontrados: {', '.join(map(str, falhas))}")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Baixa PDFs de corte da FUVEST")
     parser.add_argument("--ano-inicio", type=int, default=1994)
@@ -134,10 +198,25 @@ def main() -> None:
         action="store_true",
         help="Baixa novamente mesmo se o arquivo local já existir",
     )
+    parser.add_argument(
+        "--corte",
+        action="store_true",
+        help="Baixa PDFs de notas de corte de 2003 a 2011 (pdfs/corte/)",
+    )
     args = parser.parse_args()
 
-    PASTA_PDFS.mkdir(parents=True, exist_ok=True)
     ctx = ssl.create_default_context()
+
+    if args.corte:
+        baixar_pdfs_corte(
+            args.ano_inicio,
+            args.ano_fim,
+            forcar=args.forcar,
+            ctx=ctx,
+        )
+        return
+
+    PASTA_PDFS.mkdir(parents=True, exist_ok=True)
 
     encontrados = 0
     falhas: list[int] = []

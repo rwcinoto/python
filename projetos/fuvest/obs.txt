@@ -1,6 +1,19 @@
 Achei um problema no arredondamento do Python, quando o resultado é 7,425, ele arredonda para 7,42
 O problema era o ponto flutuante, não a regra de arredondamento em si.
-63 / 40 parece ser 1.575, mas internamente o Python guarda algo como 1.574999999999999999. Com round(..., 2), isso vira 1.57 em vez de 1.58.
-A correção foi usar Decimal com ROUND_HALF_UP
+Com a população aumentando e o número de vagas da FUVEST não se alterando, o vestibular está ficando mais concorrido?
 
-Os arquivos variam muito de ano a ano, e alguns anos precisei de mais de um arquivo para pegar as informações que eu precisava.
+Sempre tive curiosidade de saber se a dificuldade de passar no vestibular tem mudado ao longo do tempo. Imaginei que estivesse ficando mais difícil, porque recentemente descobri que o curso que fui aprovado em 1996, ainda oferece a mesma quantidade de vagas 30 anos depois. Se o número de vagas não muda, mas a população vem aumentando, achei que as notas de corte estivessem subindo, porque o vestibular tende a ficar mais concorrido.
+
+Continuando os estudos com Python pegueis dados da FUVEST de 1994 a 2026. Quis experimentar agora usar o Python inclusive para baixar os dados, porque agora eu precisava de muitos arquivos. Para variar, tive bastante trabalho para preparar os dados antes das análises. Os arquivos da FUVEST mudam muito de ano para ano: formato, colunas e nomenclatura. Em alguns anos precisei juntar dois arquivos para pegar a mesma informação que nos outros anos vinha num arquivo só.
+
+Analisei a evolução do número de cursos, vagas e inscritos. Calculei relação candidato/vaga ao longo dos anos e o percentual mínimo de acertos para avançar para a segunda fase no curso de medicina, o que geralmente exige a nota mais alta. São os gráficos que fiz e coloquei junto do texto.
+
+Olhando para os números, vejo que a quantidade de cursos e vagas aumentou durante um tempo, mas depois voltou a diminuir, mas o número de inscritos também acompanhou. A relação candidato/vaga oscilou um pouco e dá a impressão até que agora está menor que nos anos 90. E olhando o gráfico do % de acertos da prova necessário para passar para a segunda fase, ele parecia vir aumentando mesmo, mas a partir de 2019 diminuiu muito e está meio estabilizado recentemente.
+
+O grande problema é que os números sem contexto podem levar a conclusões erradas. Vários resultados não se explicam só olhando os gráficos. Por exemplo, eu sei que algumas universidades, além da USP, usavam a FUVEST como prova de entrada, mas em algum momento deixaram de usar, dando a impressão que o número de vagas diminuiu. O percentual de acertos diminuiu a partir de 2019 porque foi quando houve a criação de 3 tipos de ingresso, e usei a nota mínima entre os 3 tipos. Primeiro eu usei o número de acertos da prova para comparar a pontuação mínima para passar para a segunda fase, mas o número de questões da prova mudou muito ao longo do tempo, então tive  que usar o % de acertos. Sem entender o que mudou no vestibular, fica difícil interpretar os dados corretamente.
+
+Recentemente li uma matéria falando que na prova nacional docente de 2025, 73,9% dos professores formados presencialmente atingiram a proficiência mínima, contra apenas 46,9% dos que estudaram a distância. A matéria falava ainda que entre 2014 e 2024, as matrículas em licenciaturas EaD cresceram 286,7%, enquanto o presencial caiu 22,3%. Talvez isso tenha a ver com o fato de que os números que analisem dão a impressão que a concorrência não ficou mais acirrada. Talvez parte dos inscritos nem se inscrevem mais na FUVEST porque a oferta de vagas em outras universidades aumentou muito.
+
+Enfim, acho melhor eu não afirmar muita coisa com relação a esses dados porque não tenho o conhecimento completo do cenário para tentar inferir resultados. Mas fica aí o aprendizado que a parte matemática me parece a mais simples, difícil é saber interpretar os resultados adequadamente.
+
+Sobre Python, aprendi também que ponto flutuante pode ser um problema. Num cálculo simples como 63/40, o resultado é 1,575. Mas o Python guarda internamente algo como 1,5749999999... Daí round(63/40, 2) devolve 1,57 ao invés de 1,58. O problema não é a regra de arredondamento, mas a representação do número. A correção foi usar Decimal com ROUND_HALF_UP.

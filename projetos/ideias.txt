@@ -439,5 +439,4 @@ NBA vs população geral (histograma comparativo)
 * erro = |resultado cidade - resultado Brasil|
 * média histórica do erro, ranking das cidades mais alinhadas ao país
 7) Copa do mundo ganhei o bolão na estatística
-1) Tem uma forma simples de dar um panorama geral do armazenamento do meu computador com Python?
 1) listar os 10 maiores arquivos e pastas do diretório C:\ com Python

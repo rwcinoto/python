@@ -11,7 +11,7 @@ from pathlib import Path
 import yt_dlp
 
 # Cole aqui a URL do vídeo que você quer baixar.
-VIDEO_URL = "https://www.youtube.com/watch?v=cpybv9c6x1k"
+VIDEO_URL = "https://www.youtube.com/watch?v=JtguGxGzclw"
 
 # Defina aqui a pasta onde o vídeo será salvo.
 # Exemplo no Windows: r"D:\Downloads\videos"
